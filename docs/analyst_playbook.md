@@ -23,7 +23,7 @@ python3 scripts/record.py queue-list
 
 - 队列有待办 → 做第 1 步。
 - 今天是周二 → 另做第 2 步。
-- 今天在 3/6/9/12 月的 15 日及以后，且 `data/feedback.json` 里还没有本月的 `season_review` → 另做第 3 步。
+- 今天在 3/6/9/12 月的 15 日及以后，且 `data/feedback.json` 里本月既没有 `season_review` 也没有 `baseline` → 另做第 3 步。
 - 三样都没有 → 回一句"无待办"就结束，**不要 commit**。
 
 ### 1. 处理一份新财报（队列里每条都做）
@@ -111,4 +111,4 @@ push 失败要如实报告，不要说成功。
 - agent 时代量增最明显：身份 → API 与 AI 运行时 → 安全数据；按人头计价的 SSE、端点、邮件受益弱。
 - 量增 ≠ 收入增：边缘 bot / agent 识别放行是"量大难收钱"（Cloudflare 明说拦 bot 不另收费）。
 - 四家 agent 受益弹性：PANW ＞ AKAM ≈ FTNT ＞ CHKP；已兑现证据 FTNT 在 AKAM 前，被定价程度 AKAM、CHKP 最低。
-- 8 项信号与阈值见 `config/signals.json`；改阈值只有 Henry 能决定，你不要改 config。
+- 8 项信号与阈值见 `config/signals.json`；改阈值只有 Henry 能决定，你不要改 `config/` 和 `scripts/`。自动解析坏了就用 record.py 补录，并在反馈里写一句“某某解析器需要修”。
