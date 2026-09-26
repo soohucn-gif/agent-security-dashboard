@@ -1,0 +1,297 @@
+{
+ "_note": "8 项改判信号，来自《Akamai 的安全业务在哪一层？》研究底稿（2026-09-25）第七节。rule 由 scripts/evaluate.py 执行；阈值要改就改这里，改完推送即可，页面和推送会跟着变。",
+ "source_report": {
+  "title": "Akamai 的安全业务在哪一层？谁更受益于 agent 的几何级增长",
+  "date": "2026-09-25"
+ },
+ "thesis": {
+  "asof": "2026-09-25",
+  "ranking": "PANW ＞ AKAM ≈ FTNT ＞ CHKP",
+  "text": "agent 受益弹性：综合 PANW 最好（身份、AI 运行时、安全数据三层都在）；AKAM 的边缘层直接承接 agent 流量但还在“扛量不收钱”；FTNT 吃的是 AI 数据中心资本开支而非 agent 数量；CHKP 最弱。看已兑现证据 FTNT 排在 AKAM 前；看被定价程度 AKAM、CHKP 最低。",
+  "links": {
+   "PANW": [
+    "S5"
+   ],
+   "AKAM": [
+    "S1",
+    "S2",
+    "S3"
+   ],
+   "FTNT": [
+    "S7"
+   ],
+   "CHKP": [
+    "S8"
+   ]
+  },
+  "layers": {
+   "身份层": [
+    "S4"
+   ],
+   "AI 运行时": [
+    "S5",
+    "S6"
+   ],
+   "公网边缘": [
+    "S1",
+    "S2",
+    "S3"
+   ],
+   "防火墙换机": [
+    "S7",
+    "S8"
+   ]
+  }
+ },
+ "signals": [
+  {
+   "id": "S1",
+   "title": "Akamai 安全收入增速",
+   "short": "AKAM 安全增速",
+   "tickers": [
+    "AKAM"
+   ],
+   "layer": "① 公网边缘",
+   "question": "边缘 agent 流量能不能变成 Akamai 的安全收入",
+   "rule": {
+    "type": "threshold_streak",
+    "ticker": "AKAM",
+    "metric": "security_yoy",
+    "up": {
+     "gt": 12,
+     "n": 2
+    },
+    "down": {
+     "lt": 8,
+     "n": 1
+    },
+    "watch_hi": 11,
+    "watch_lo": 9,
+    "aux": [
+     "security_yoy_rep",
+     "security_yoy_cc"
+    ]
+   },
+   "trigger_text": "连续两季超 12% → 量利转化上调；跌破 8% → 下调",
+   "baseline": {
+    "period": "2026Q2",
+    "text": "+10%（Q2），不变汇率 +9%；报表精确值 +9.5%"
+   },
+   "impact": {
+    "up": "AKAM 量利转化上调：边缘层“只扛量不收钱”的判断松动，四家排序里 AKAM 可单独排第二",
+    "down": "AKAM 量利转化下调：市场给的“CDN 加重资产算力”定价被坐实"
+   },
+   "todo": "核对安全收入与不变汇率增速；电话会里有没有 bot / agent / API 安全的量化口径、续约降价的说法"
+  },
+  {
+   "id": "S2",
+   "title": "Akamai 是否单列 bot / agent / API 安全收入",
+   "short": "AKAM 单列披露",
+   "tickers": [
+    "AKAM"
+   ],
+   "layer": "① 公网边缘",
+   "question": "高增长子线能不能被看见",
+   "rule": {
+    "type": "disclosure",
+    "ticker": "AKAM",
+    "up_metrics": [
+     "api_sec_rev",
+     "bot_agent_rev",
+     "ai_sec_rev"
+    ],
+    "watch_metrics": [
+     "gs_api_rev"
+    ],
+    "after": "2025Q4",
+    "hold_text": "最新一期新闻稿与电话会都没有单列 bot / agent / API 安全收入"
+   },
+   "trigger_text": "首次单列 → 证据强度上调",
+   "baseline": {
+    "period": "2026Q2",
+    "text": "1Q26 起不再单独披露；4Q25 最后一次披露 Guardicore 微分段 + API 安全合计 $9,000 万（+36%）"
+   },
+   "impact": {
+    "up": "Akamai 的 agent 相关收入可验证，证据强度上调",
+    "watch": "恢复披露 Guardicore + API 合并口径：透明度回升，但还不是 bot / agent 单列"
+   },
+   "todo": "新闻稿与电话会有没有单列 bot / agent 管理、API 安全或 AI 安全收入（金额或年化）"
+  },
+  {
+   "id": "S3",
+   "title": "Cloudflare 按请求收费的成交额",
+   "short": "NET 按请求收费",
+   "tickers": [
+    "NET"
+   ],
+   "layer": "① 公网边缘",
+   "question": "边缘“量大难收钱”那一格会不会上移",
+   "rule": {
+    "type": "disclosure",
+    "ticker": "NET",
+    "up_metrics": [
+     "agent_pay_value"
+    ],
+    "after": "2026Q2",
+    "hold_text": "最新一期新闻稿与电话会都没有给出成交额或收入"
+   },
+   "trigger_text": "首次披露 → 边缘“量大难收钱”那格上移",
+   "baseline": {
+    "period": "2026Q2",
+    "text": "未披露；2Q26 电话会只讲 Cloudflare.pay 按请求向 agent 收费的构想"
+   },
+   "impact": {
+    "up": "边缘 bot / agent 识别放行的量利转化上调；Akamai 与 TollBit、Skyfire 的变现路线有了参照"
+   },
+   "todo": "pay per crawl、Cloudflare.pay、agent 支付、Monetization Gateway 有没有给出成交额、收入或客户数"
+  },
+  {
+   "id": "S4",
+   "title": "身份厂商按 agent / 按用量计价",
+   "short": "身份层计价迁移",
+   "tickers": [
+    "OKTA",
+    "SAIL"
+   ],
+   "layer": "⑤ 身份",
+   "question": "agent 数量增长能不能一对一变成身份层收入",
+   "rule": {
+    "type": "composite",
+    "parts": [
+     {
+      "ticker": "OKTA",
+      "metric": "usage_pricing",
+      "kind": "flag",
+      "label": "Okta 启用按 agent / 用量计价"
+     },
+     {
+      "ticker": "SAIL",
+      "metric": "ai_arr_share",
+      "kind": "gt",
+      "gt": 10,
+      "watch": 8,
+      "label": "SailPoint AI 驱动 ARR 占比超 10%"
+     }
+    ]
+   },
+   "trigger_text": "Okta 启用，或 SailPoint 占比超 10%",
+   "baseline": {
+    "period": "FY27Q2",
+    "text": "Okta 预留开关未启用（CEO：“Our pricing model is per user.”）；SailPoint AI 驱动 ARR 超 $7,000 万，约占总 ARR 5.7%"
+   },
+   "impact": {
+    "up": "身份层量利转化上调：PANW Idira、Okta、SailPoint、CRWD 身份模块受益"
+   },
+   "todo": "Okta：计价是否出现按 agent / 按用量 / 消耗额度；SailPoint：AI 驱动 ARR 金额与占比"
+  },
+  {
+   "id": "S5",
+   "title": "PANW Prisma AIRS ARR",
+   "short": "Prisma AIRS ARR",
+   "tickers": [
+    "PANW"
+   ],
+   "layer": "⑨ AI 运行时",
+   "question": "AI 运行时防护能不能变成大额收入",
+   "rule": {
+    "type": "threshold_latest",
+    "ticker": "PANW",
+    "metric": "prisma_airs_arr",
+    "gt": 200,
+    "watch": 150,
+    "after": "FY26Q4"
+   },
+   "trigger_text": "下季（FY27Q1）超 $2 亿 → 上调",
+   "baseline": {
+    "period": "FY26Q4",
+    "text": "超 $1 亿（GA 后四个季度达到，电话会口径）"
+   },
+   "impact": {
+    "up": "AI 运行时层量利转化上调，PANW 在 agent 安全的领先被坐实"
+   },
+   "todo": "电话会与新闻稿里 Prisma AIRS 的 ARR、客户数；XSIAM ARR 顺带记录"
+  },
+  {
+   "id": "S6",
+   "title": "CrowdStrike AI DR ARR",
+   "short": "CRWD AI DR ARR",
+   "tickers": [
+    "CRWD"
+   ],
+   "layer": "⑨ AI 运行时",
+   "question": "端点侧 AI 检测响应能不能单独做大",
+   "rule": {
+    "type": "disclosure_threshold",
+    "ticker": "CRWD",
+    "metric": "ai_dr_arr",
+    "gt": 100,
+    "from": "FY27Q2"
+   },
+   "trigger_text": "披露绝对值且超 $1 亿 → 上调",
+   "baseline": {
+    "period": "FY27Q2",
+    "text": "较 Q1 近三倍，未给绝对值（Q1 环比 +250%、Q2 管线超 $5,000 万）"
+   },
+   "impact": {
+    "up": "AI 运行时层出现第二家大额干净 ARR，量利转化上调"
+   },
+   "todo": "AI DR（AIDR）ending ARR 是否给出绝对金额；Flex ARR、身份 ARR 顺带记录"
+  },
+  {
+   "id": "S7",
+   "title": "Fortinet 产品收入增速",
+   "short": "FTNT 产品增速",
+   "tickers": [
+    "FTNT"
+   ],
+   "layer": "② 数据中心防火墙",
+   "question": "AI 数据中心带动的换机周期还在不在",
+   "rule": {
+    "type": "threshold_streak",
+    "ticker": "FTNT",
+    "metric": "product_yoy",
+    "down": {
+     "lt": 20,
+     "n": 1
+    },
+    "watch_lo": 30
+   },
+   "trigger_text": "回落到 20% 以下 → AI 数据中心换机见顶",
+   "baseline": {
+    "period": "2026Q2",
+    "text": "+52%（报表精确值 +51.9%）"
+   },
+   "impact": {
+    "down": "FTNT 的 agent 受益弹性下调：产品周期见顶，排序可能跌到 AKAM 之后"
+   },
+   "todo": "产品收入与账单增速；电话会里 AI 数据中心 / 生成式 AI 云订单的说法"
+  },
+  {
+   "id": "S8",
+   "title": "Check Point 产品收入",
+   "short": "CHKP 产品收入",
+   "tickers": [
+    "CHKP"
+   ],
+   "layer": "② 网络边界",
+   "question": "销售重建有没有见效",
+   "rule": {
+    "type": "target_period",
+    "ticker": "CHKP",
+    "metric": "product_yoy",
+    "target": "2026Q4",
+    "gt": 0
+   },
+   "trigger_text": "Q4 未回正 → 维持最弱判断；回正 → 重估",
+   "baseline": {
+    "period": "2026Q2",
+    "text": "−14%，公司称 Q4 回正；2025Q4 基数 $1.718 亿"
+   },
+   "impact": {
+    "up": "CHKP 最弱判断需要重估：销售重建开始见效",
+    "down": "维持 CHKP 最弱判断"
+   },
+   "todo": "产品与许可收入增速；管理层对 Q4 回正的最新说法"
+  }
+ ]
+}

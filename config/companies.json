@@ -1,0 +1,23 @@
+{
+ "_note": "跟踪公司清单。fy_end_month：财年结束月份（12=自然年；7=PANW/ZS 七月财年；1=CRWD/OKTA/SAIL 一月财年）。form：财报新闻稿走的 SEC 表单（CHKP 是外国发行人，走 6-K）。group：core=报告点名的四家，peer=参照公司。",
+ "companies": [
+  {"ticker": "AKAM", "name": "Akamai", "cn": "阿卡迈", "cik": 1086222, "fy_end_month": 12, "form": "8-K", "group": "core",
+   "role": "公网边缘 WAAP（WAF/API/bot/DDoS）+ Guardicore 微分段；CIS 不属于安全", "ir": "https://ir.akamai.com/"},
+  {"ticker": "PANW", "name": "Palo Alto Networks", "cn": "派拓网络", "cik": 1327567, "fy_end_month": 7, "form": "8-K", "group": "core",
+   "role": "平台整合者：网络与 AI 安全、Cortex/XSIAM、Idira 身份（CyberArk）", "ir": "https://investors.paloaltonetworks.com/"},
+  {"ticker": "FTNT", "name": "Fortinet", "cn": "飞塔", "cik": 1262039, "fy_end_month": 12, "form": "8-K", "group": "core",
+   "role": "ASIC 防火墙 + 统一 SASE；吃 AI 数据中心资本开支", "ir": "https://investor.fortinet.com/"},
+  {"ticker": "CHKP", "name": "Check Point", "cn": "捷邦", "cik": 1015922, "fy_end_month": 12, "form": "6-K", "group": "core",
+   "role": "防火墙开创者；增长停滞、高利润高回购", "ir": "https://investors.checkpoint.com/"},
+  {"ticker": "NET", "name": "Cloudflare", "cn": "Cloudflare", "cik": 1477333, "fy_end_month": 12, "form": "8-K", "group": "peer",
+   "role": "Akamai 在公网边缘层的最直接对手；横跨 SSE 与算力层", "ir": "https://cloudflare.net/"},
+  {"ticker": "CRWD", "name": "CrowdStrike", "cn": "CrowdStrike", "cik": 1535527, "fy_end_month": 1, "form": "8-K", "group": "peer",
+   "role": "端点/XDR + 身份 + AI DR；Flex 消耗制", "ir": "https://ir.crowdstrike.com/"},
+  {"ticker": "OKTA", "name": "Okta", "cn": "Okta", "cik": 1660134, "fy_end_month": 1, "form": "8-K", "group": "peer",
+   "role": "身份层；按人头计价，预留按用量开关", "ir": "https://investor.okta.com/"},
+  {"ticker": "SAIL", "name": "SailPoint", "cn": "SailPoint", "cik": 2030781, "fy_end_month": 1, "form": "8-K", "group": "peer",
+   "role": "身份治理；非人类身份与 AI 驱动 ARR", "ir": "https://investors.sailpoint.com/"},
+  {"ticker": "ZS", "name": "Zscaler", "cn": "Zscaler", "cik": 1713683, "fy_end_month": 7, "form": "8-K", "group": "peer",
+   "role": "SSE/SASE（按人头）；Security for AI", "ir": "https://ir.zscaler.com/"}
+ ]
+}

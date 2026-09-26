@@ -1,0 +1,745 @@
+{
+ "AKAM": {
+  "0001086222-26-000083": {
+   "filed": "2026-08-06",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2026Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000083/exhibit991-q22026.htm"
+  },
+  "0001086222-26-000054": {
+   "filed": "2026-05-07",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2026Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000054/exhibit991-q12026.htm"
+  },
+  "0001086222-26-000017": {
+   "filed": "2026-02-19",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2025Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000017/exhibit991-q42025.htm"
+  },
+  "0001086222-25-000252": {
+   "filed": "2025-11-06",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2025Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622225000252/exhibit991-q32025.htm"
+  },
+  "0001086222-25-000214": {
+   "filed": "2025-08-07",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2025Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622225000214/exhibit991-q22025.htm"
+  },
+  "0001086222-25-000146": {
+   "filed": "2025-05-08",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2025Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622225000146/exhibit991-q12025.htm"
+  },
+  "0001086222-25-000007": {
+   "filed": "2025-02-20",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2024Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622225000007/exhibit991-q42024.htm"
+  },
+  "0001086222-24-000214": {
+   "filed": "2024-11-07",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2024Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622224000214/exhibit991-q32024.htm"
+  },
+  "0001086222-24-000197": {
+   "filed": "2024-08-08",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2024Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622224000197/exhibit991-q22024.htm"
+  },
+  "0001086222-24-000146": {
+   "filed": "2024-05-09",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2024Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622224000146/exhibit991-q12024.htm"
+  },
+  "0001086222-24-000013": {
+   "filed": "2024-02-13",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2023Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622224000013/exhibit991-q42023.htm"
+  }
+ },
+ "PANW": {
+  "0001327567-26-000019": {
+   "filed": "2026-09-01",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000019/ex991q426earningsrelease.htm"
+  },
+  "0001327567-26-000012": {
+   "filed": "2026-06-02",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000012/ex991q326earningsrelease.htm"
+  },
+  "0001327567-26-000003": {
+   "filed": "2026-02-17",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000003/ex991q226earningsrelease.htm"
+  },
+  "0001327567-25-000032": {
+   "filed": "2025-11-19",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756725000032/ex991q126earningsrelease.htm"
+  },
+  "0001327567-25-000024": {
+   "filed": "2025-08-18",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY25Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756725000024/ex991q425earningsrelease.htm"
+  },
+  "0001327567-25-000015": {
+   "filed": "2025-05-20",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY25Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756725000015/ex991q325earningsrelease.htm"
+  },
+  "0001327567-25-000006": {
+   "filed": "2025-02-13",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY25Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756725000006/ex991q225earningsrelease.htm"
+  },
+  "0001327567-24-000036": {
+   "filed": "2024-11-20",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY25Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756724000036/ex991q125earningsrelease.htm"
+  },
+  "0001327567-24-000023": {
+   "filed": "2024-08-19",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY24Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756724000023/ex991q424earningsrelease.htm"
+  },
+  "0001327567-24-000015": {
+   "filed": "2024-05-20",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY24Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756724000015/ex991q324earningsrelease.htm"
+  },
+  "0001327567-24-000003": {
+   "filed": "2024-02-20",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY24Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756724000003/ex991q224earningsrelease.htm"
+  }
+ },
+ "FTNT": {
+  "0001262039-26-000018": {
+   "filed": "2026-07-29",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2026Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000018/ftntq2-2026ex991.htm"
+  },
+  "0001262039-26-000010": {
+   "filed": "2026-05-06",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2026Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000010/ftntq1-2026ex991.htm"
+  },
+  "0001262039-26-000003": {
+   "filed": "2026-02-05",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2025Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000003/ftntq4-2025ex991.htm"
+  },
+  "0001262039-25-000036": {
+   "filed": "2025-11-05",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2025Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203925000036/ftntq3-2025ex991.htm"
+  },
+  "0001262039-25-000025": {
+   "filed": "2025-08-06",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2025Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203925000025/ftntq2-2025ex991.htm"
+  },
+  "0001262039-25-000014": {
+   "filed": "2025-05-07",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2025Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203925000014/ftntq1-2025ex991.htm"
+  },
+  "0001262039-25-000007": {
+   "filed": "2025-02-06",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2024Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203925000007/ftntq4-2024ex991.htm"
+  },
+  "0001262039-24-000040": {
+   "filed": "2024-11-07",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2024Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203924000040/ftntq3-2024ex991.htm"
+  },
+  "0001262039-24-000032": {
+   "filed": "2024-08-06",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2024Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203924000032/ftntq2-2024ex991.htm"
+  },
+  "0001262039-24-000017": {
+   "filed": "2024-05-02",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2024Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203924000017/ftntq1-2024ex991.htm"
+  },
+  "0001262039-24-000006": {
+   "filed": "2024-02-06",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2023Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203924000006/ftntq4-2023ex991.htm"
+  }
+ },
+ "CHKP": {
+  "0001178913-26-003696": {
+   "filed": "2026-07-30",
+   "form": "6-K",
+   "status": "processed",
+   "label": "2026Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1015922/000117891326003696/zk2635799.htm"
+  },
+  "0001178913-26-002310": {
+   "filed": "2026-04-30",
+   "form": "6-K",
+   "status": "processed",
+   "label": "2026Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1015922/000117891326002310/a2635159.htm"
+  },
+  "0001178913-26-000437": {
+   "filed": "2026-02-12",
+   "form": "6-K",
+   "status": "processed",
+   "label": "2025Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1015922/000117891326000437/zk2634351.htm"
+  },
+  "0001178913-25-003565": {
+   "filed": "2025-10-28",
+   "form": "6-K",
+   "status": "processed",
+   "label": "2025Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1015922/000117891325003565/2533887.htm"
+  },
+  "0001178913-25-002530": {
+   "filed": "2025-07-30",
+   "form": "6-K",
+   "status": "processed",
+   "label": "2025Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1015922/000117891325002530/zk2533503.htm"
+  },
+  "0001178913-25-001386": {
+   "filed": "2025-04-23",
+   "form": "6-K",
+   "status": "processed",
+   "label": "2025Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1015922/000117891325001386/zk2533044.htm"
+  },
+  "0001178913-25-000253": {
+   "filed": "2025-01-30",
+   "form": "6-K",
+   "status": "processed",
+   "label": "2024Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1015922/000117891325000253/zk2532622.htm"
+  },
+  "0001178913-24-003393": {
+   "filed": "2024-10-29",
+   "form": "6-K",
+   "status": "processed",
+   "label": "2024Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1015922/000117891324003393/zk2432188.htm"
+  },
+  "0001178913-24-002276": {
+   "filed": "2024-07-24",
+   "form": "6-K",
+   "status": "processed",
+   "label": "2024Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1015922/000117891324002276/zk2431710.htm"
+  },
+  "0001178913-24-001434": {
+   "filed": "2024-04-25",
+   "form": "6-K",
+   "status": "processed",
+   "label": "2024Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1015922/000117891324001434/zk2431338.htm"
+  },
+  "0001178913-24-000373": {
+   "filed": "2024-02-06",
+   "form": "6-K",
+   "status": "processed",
+   "label": "2023Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1015922/000117891324000373/zk2430888.htm"
+  },
+  "0001178913-26-004498": {
+   "filed": "2026-09-14",
+   "form": "6-K",
+   "status": "setup"
+  },
+  "0001178913-26-004398": {
+   "filed": "2026-09-02",
+   "form": "6-K",
+   "status": "setup"
+  },
+  "0001178913-26-003557": {
+   "filed": "2026-07-22",
+   "form": "6-K",
+   "status": "setup"
+  },
+  "0001178913-26-003452": {
+   "filed": "2026-07-09",
+   "form": "6-K",
+   "status": "setup"
+  },
+  "0001178913-26-003128": {
+   "filed": "2026-06-08",
+   "form": "6-K",
+   "status": "setup"
+  },
+  "0001178913-26-002519": {
+   "filed": "2026-05-11",
+   "form": "6-K",
+   "status": "setup"
+  },
+  "0001178913-25-004030": {
+   "filed": "2025-12-08",
+   "form": "6-K",
+   "status": "setup"
+  },
+  "0001178913-25-004003": {
+   "filed": "2025-12-04",
+   "form": "6-K",
+   "status": "setup"
+  },
+  "0001178913-25-003986": {
+   "filed": "2025-12-02",
+   "form": "6-K",
+   "status": "setup"
+  },
+  "0001178913-25-003335": {
+   "filed": "2025-09-16",
+   "form": "6-K",
+   "status": "setup"
+  },
+  "0001178913-25-003243": {
+   "filed": "2025-09-04",
+   "form": "6-K",
+   "status": "setup"
+  },
+  "0001178913-25-003221": {
+   "filed": "2025-09-03",
+   "form": "6-K",
+   "status": "setup"
+  }
+ },
+ "NET": {
+  "0001477333-26-000053": {
+   "filed": "2026-08-06",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2026Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000053/q226exhibit991.htm"
+  },
+  "0001477333-26-000033": {
+   "filed": "2026-05-07",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2026Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000033/q126exhibit991.htm"
+  },
+  "0001477333-26-000008": {
+   "filed": "2026-02-10",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2025Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000008/q425exhibit991.htm"
+  },
+  "0001477333-25-000140": {
+   "filed": "2025-10-30",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2025Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733325000140/q325exhibit991.htm"
+  },
+  "0001477333-25-000136": {
+   "filed": "2025-07-31",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2025Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733325000136/q225exhibit991.htm"
+  },
+  "0001477333-25-000081": {
+   "filed": "2025-05-08",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2025Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733325000081/q125exhibit991.htm"
+  },
+  "0001477333-25-000017": {
+   "filed": "2025-02-06",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2024Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733325000017/q424exhibit991.htm"
+  },
+  "0001477333-24-000083": {
+   "filed": "2024-11-07",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2024Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733324000083/q324exhibit991.htm"
+  },
+  "0001477333-24-000069": {
+   "filed": "2024-08-01",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2024Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733324000069/q224exhibit991.htm"
+  },
+  "0001477333-24-000048": {
+   "filed": "2024-05-02",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2024Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733324000048/q124exhibit991.htm"
+  },
+  "0001477333-24-000004": {
+   "filed": "2024-02-08",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2023Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733324000004/q423exhibit991.htm"
+  }
+ },
+ "CRWD": {
+  "0001535527-26-000029": {
+   "filed": "2026-08-26",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY27Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000029/crwd-20260826xex991.htm"
+  },
+  "0001535527-26-000022": {
+   "filed": "2026-06-03",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY27Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000022/crwd-20260603xex991.htm"
+  },
+  "0001535527-26-000007": {
+   "filed": "2026-03-03",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000007/crwd-20260303xex991.htm"
+  },
+  "0001535527-25-000030": {
+   "filed": "2025-12-02",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552725000030/crwd-20251202xex991.htm"
+  },
+  "0001535527-25-000023": {
+   "filed": "2025-08-27",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552725000023/crwd-20252708xex991.htm"
+  },
+  "0001535527-25-000017": {
+   "filed": "2025-06-03",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552725000017/crwd-20250603xex991.htm"
+  },
+  "0001535527-25-000005": {
+   "filed": "2025-03-04",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY25Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552725000005/crwd-20250304xex991.htm"
+  },
+  "0001535527-24-000024": {
+   "filed": "2024-11-26",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY25Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552724000024/crwd-20241126xex991.htm"
+  },
+  "0001535527-24-000017": {
+   "filed": "2024-08-28",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY25Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552724000017/crwd-20240828xex991.htm"
+  },
+  "0001535527-24-000011": {
+   "filed": "2024-06-04",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY25Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552724000011/crwd-20240604xex991.htm"
+  },
+  "0001535527-24-000004": {
+   "filed": "2024-03-05",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY24Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552724000004/crwd-20240305xex991.htm"
+  }
+ },
+ "OKTA": {
+  "0001660134-26-000068": {
+   "filed": "2026-08-26",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY27Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000068/okta-7312026_ex991.htm"
+  },
+  "0001660134-26-000050": {
+   "filed": "2026-05-28",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY27Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000050/okta-4302026_ex991.htm"
+  },
+  "0001660134-26-000016": {
+   "filed": "2026-03-04",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013426000016/okta-1312026_ex991.htm"
+  },
+  "0001660134-25-000170": {
+   "filed": "2025-12-02",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013425000170/okta-10312025_ex991.htm"
+  },
+  "0001660134-25-000156": {
+   "filed": "2025-08-26",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013425000156/okta-7312025_ex991.htm"
+  },
+  "0001660134-25-000091": {
+   "filed": "2025-05-27",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013425000091/okta-4302025_ex991.htm"
+  },
+  "0001660134-25-000043": {
+   "filed": "2025-03-03",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY25Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013425000043/okta-1312025_ex991.htm"
+  },
+  "0001660134-24-000165": {
+   "filed": "2024-12-03",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY25Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013424000165/okta-10312024_ex991.htm"
+  },
+  "0001660134-24-000134": {
+   "filed": "2024-08-28",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY25Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013424000134/okta-7312024_ex991.htm"
+  },
+  "0001660134-24-000085": {
+   "filed": "2024-05-29",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY25Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013424000085/okta-4302024_ex991.htm"
+  },
+  "0001660134-24-000019": {
+   "filed": "2024-02-28",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY24Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1660134/000166013424000019/okta-01312024_ex991.htm"
+  }
+ },
+ "SAIL": {
+  "0001628280-26-061015": {
+   "filed": "2026-09-09",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY27Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/2030781/000162828026061015/sailpointinc-20260731x991x.htm"
+  },
+  "0002030781-26-000008": {
+   "filed": "2026-06-09",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY27Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/2030781/000203078126000008/sailpointinc-20260430x991x.htm"
+  },
+  "0001628280-26-019034": {
+   "filed": "2026-03-18",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/2030781/000162828026019034/sailpointinc-20260131x991x.htm"
+  },
+  "0002030781-25-000048": {
+   "filed": "2025-12-09",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/2030781/000203078125000048/sailpointinc-20251031x991x.htm"
+  },
+  "0002030781-25-000031": {
+   "filed": "2025-09-09",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/2030781/000203078125000031/sailpointinc-20250731x991x.htm"
+  },
+  "0002030781-25-000018": {
+   "filed": "2025-06-11",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/2030781/000203078125000018/spparent-20250430x991xpres.htm"
+  },
+  "0002030781-25-000005": {
+   "filed": "2025-03-26",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY25Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/2030781/000203078125000005/spparent-20250131x991xpres.htm"
+  }
+ },
+ "ZS": {
+  "0001713683-26-000156": {
+   "filed": "2026-09-03",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000156/zs-07312026_991.htm"
+  },
+  "0001713683-26-000095": {
+   "filed": "2026-05-26",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000095/zs-04302026_991.htm"
+  },
+  "0001713683-26-000047": {
+   "filed": "2026-02-26",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368326000047/zs-01312026_991.htm"
+  },
+  "0001713683-25-000203": {
+   "filed": "2025-11-25",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY26Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368325000203/zs-10312025_991.htm"
+  },
+  "0001713683-25-000138": {
+   "filed": "2025-09-02",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY25Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368325000138/zs-07312025_991.htm"
+  },
+  "0001713683-25-000078": {
+   "filed": "2025-05-29",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY25Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368325000078/zs-04302025_991.htm"
+  },
+  "0001713683-25-000025": {
+   "filed": "2025-03-05",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY25Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368325000025/zs-01312025_991.htm"
+  },
+  "0001713683-24-000143": {
+   "filed": "2024-12-02",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY25Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368324000143/zs-10312024_991.htm"
+  },
+  "0001713683-24-000097": {
+   "filed": "2024-09-03",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY24Q4",
+   "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368324000097/zs-07312024_991.htm"
+  },
+  "0001713683-24-000072": {
+   "filed": "2024-05-30",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY24Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368324000072/zs-04302024_991.htm"
+  },
+  "0001713683-24-000036": {
+   "filed": "2024-02-29",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY24Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368324000036/zs-01312024_991.htm"
+  }
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "_note": "Nasdaq/Zacks 没给日期时的兜底：按去年同期推算，一律标“预估”。云端分析员每周二会用公司公告把临近的日期改成“已确认”（写进 data/calendar.json）。",
+ "dates": {
+  "CHKP": {"date": "2026-10-27", "status": "预估", "timing": "盘前", "period": "2026Q3"},
+  "NET":  {"date": "2026-10-29", "status": "预估", "timing": "盘后", "period": "2026Q3"},
+  "FTNT": {"date": "2026-11-04", "status": "预估", "timing": "盘后", "period": "2026Q3"},
+  "AKAM": {"date": "2026-11-05", "status": "预估", "timing": "盘后", "period": "2026Q3"},
+  "PANW": {"date": "2026-11-18", "status": "预估", "timing": "盘后", "period": "FY27Q1"},
+  "ZS":   {"date": "2026-11-24", "status": "预估", "timing": "盘后", "period": "FY27Q1"},
+  "CRWD": {"date": "2026-12-01", "status": "预估", "timing": "盘后", "period": "FY27Q3"},
+  "OKTA": {"date": "2026-12-01", "status": "预估", "timing": "盘后", "period": "FY27Q3"},
+  "SAIL": {"date": "2026-12-08", "status": "预估", "timing": "盘后", "period": "FY27Q3"}
+ },
+ "later": [
+  {"window": "2027-01-28 ~ 2027-02-20", "what": "CHKP / NET / FTNT / AKAM 的 2026Q4：S8 判定季（CHKP 产品收入能否回正）、S1 第二季"},
+  {"window": "2027-02-17 ~ 2027-03-20", "what": "PANW FY27Q2、ZS FY27Q2、CRWD / OKTA / SAIL FY27Q4"},
+  {"window": "2027-04-25 ~ 2027-06-10", "what": "2027Q1 一轮；S1 若 2026Q3/Q4 连续超 12% 此时已触发"}
+ ]
+}

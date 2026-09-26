@@ -1,0 +1,387 @@
+{
+ "_note": "指标目录：页面台账的列名与单位，也是 record.py 的白名单。unit：USD_M=百万美元，pct=百分比，flag=是否（1/0）。call=true 表示通常只在电话会出现（第三方转录口径）。",
+ "AKAM": [
+  {
+   "key": "revenue",
+   "label": "总收入",
+   "unit": "USD_M"
+  },
+  {
+   "key": "revenue_yoy",
+   "label": "总收入同比",
+   "unit": "pct"
+  },
+  {
+   "key": "security_rev",
+   "label": "安全收入",
+   "unit": "USD_M",
+   "main": true
+  },
+  {
+   "key": "security_yoy",
+   "label": "安全同比（精确）",
+   "unit": "pct",
+   "main": true
+  },
+  {
+   "key": "security_yoy_rep",
+   "label": "安全同比（公司口径）",
+   "unit": "pct"
+  },
+  {
+   "key": "security_yoy_cc",
+   "label": "安全同比（不变汇率）",
+   "unit": "pct",
+   "main": true
+  },
+  {
+   "key": "cis_rev",
+   "label": "CIS 收入",
+   "unit": "USD_M"
+  },
+  {
+   "key": "cis_yoy",
+   "label": "CIS 同比",
+   "unit": "pct"
+  },
+  {
+   "key": "delivery_rev",
+   "label": "交付及其他",
+   "unit": "USD_M"
+  },
+  {
+   "key": "gs_api_rev",
+   "label": "Guardicore + API 安全",
+   "unit": "USD_M"
+  },
+  {
+   "key": "gs_api_yoy",
+   "label": "Guardicore + API 同比",
+   "unit": "pct"
+  },
+  {
+   "key": "api_sec_rev",
+   "label": "API 安全（单列）",
+   "unit": "USD_M",
+   "call": true
+  },
+  {
+   "key": "bot_agent_rev",
+   "label": "bot / agent（单列）",
+   "unit": "USD_M",
+   "call": true
+  },
+  {
+   "key": "ai_sec_rev",
+   "label": "AI 安全（单列）",
+   "unit": "USD_M",
+   "call": true
+  }
+ ],
+ "PANW": [
+  {
+   "key": "revenue",
+   "label": "总收入",
+   "unit": "USD_M"
+  },
+  {
+   "key": "revenue_yoy",
+   "label": "总收入同比",
+   "unit": "pct",
+   "main": true
+  },
+  {
+   "key": "ngs_arr",
+   "label": "NGS ARR",
+   "unit": "USD_M",
+   "main": true
+  },
+  {
+   "key": "ngs_arr_yoy",
+   "label": "NGS ARR 同比",
+   "unit": "pct"
+  },
+  {
+   "key": "rpo",
+   "label": "RPO",
+   "unit": "USD_M"
+  },
+  {
+   "key": "prisma_airs_arr",
+   "label": "Prisma AIRS ARR",
+   "unit": "USD_M",
+   "call": true,
+   "main": true
+  },
+  {
+   "key": "xsiam_arr",
+   "label": "XSIAM ARR",
+   "unit": "USD_M",
+   "call": true
+  }
+ ],
+ "FTNT": [
+  {
+   "key": "revenue",
+   "label": "总收入",
+   "unit": "USD_M"
+  },
+  {
+   "key": "revenue_yoy",
+   "label": "总收入同比",
+   "unit": "pct"
+  },
+  {
+   "key": "product_rev",
+   "label": "产品收入",
+   "unit": "USD_M",
+   "main": true
+  },
+  {
+   "key": "product_yoy",
+   "label": "产品同比",
+   "unit": "pct",
+   "main": true
+  },
+  {
+   "key": "service_rev",
+   "label": "服务收入",
+   "unit": "USD_M"
+  },
+  {
+   "key": "service_yoy",
+   "label": "服务同比",
+   "unit": "pct"
+  },
+  {
+   "key": "billings",
+   "label": "账单",
+   "unit": "USD_M"
+  },
+  {
+   "key": "billings_yoy",
+   "label": "账单同比",
+   "unit": "pct",
+   "main": true
+  }
+ ],
+ "CHKP": [
+  {
+   "key": "revenue",
+   "label": "总收入",
+   "unit": "USD_M"
+  },
+  {
+   "key": "revenue_yoy",
+   "label": "总收入同比",
+   "unit": "pct",
+   "main": true
+  },
+  {
+   "key": "product_rev",
+   "label": "产品与许可",
+   "unit": "USD_M",
+   "main": true
+  },
+  {
+   "key": "product_yoy",
+   "label": "产品同比",
+   "unit": "pct",
+   "main": true
+  },
+  {
+   "key": "subscription_rev",
+   "label": "安全订阅",
+   "unit": "USD_M"
+  },
+  {
+   "key": "subscription_yoy",
+   "label": "订阅同比",
+   "unit": "pct"
+  }
+ ],
+ "NET": [
+  {
+   "key": "revenue",
+   "label": "总收入",
+   "unit": "USD_M"
+  },
+  {
+   "key": "revenue_yoy",
+   "label": "总收入同比",
+   "unit": "pct",
+   "main": true
+  },
+  {
+   "key": "agent_pay_value",
+   "label": "按请求收费成交额",
+   "unit": "USD_M",
+   "call": true,
+   "main": true
+  }
+ ],
+ "CRWD": [
+  {
+   "key": "revenue",
+   "label": "总收入",
+   "unit": "USD_M"
+  },
+  {
+   "key": "revenue_yoy",
+   "label": "总收入同比",
+   "unit": "pct"
+  },
+  {
+   "key": "arr",
+   "label": "期末 ARR",
+   "unit": "USD_M",
+   "main": true
+  },
+  {
+   "key": "arr_yoy",
+   "label": "ARR 同比",
+   "unit": "pct",
+   "main": true
+  },
+  {
+   "key": "net_new_arr",
+   "label": "净新增 ARR",
+   "unit": "USD_M"
+  },
+  {
+   "key": "flex_arr",
+   "label": "Flex 账户 ARR",
+   "unit": "USD_M"
+  },
+  {
+   "key": "flex_arr_yoy",
+   "label": "Flex ARR 同比",
+   "unit": "pct"
+  },
+  {
+   "key": "ai_dr_arr",
+   "label": "AI DR ARR",
+   "unit": "USD_M",
+   "call": true,
+   "main": true
+  },
+  {
+   "key": "identity_arr",
+   "label": "身份 ARR",
+   "unit": "USD_M",
+   "call": true
+  }
+ ],
+ "OKTA": [
+  {
+   "key": "revenue",
+   "label": "总收入",
+   "unit": "USD_M"
+  },
+  {
+   "key": "revenue_yoy",
+   "label": "总收入同比",
+   "unit": "pct",
+   "main": true
+  },
+  {
+   "key": "subscription_rev",
+   "label": "订阅收入",
+   "unit": "USD_M"
+  },
+  {
+   "key": "crpo",
+   "label": "cRPO",
+   "unit": "USD_M"
+  },
+  {
+   "key": "crpo_yoy",
+   "label": "cRPO 同比",
+   "unit": "pct",
+   "main": true
+  },
+  {
+   "key": "usage_pricing",
+   "label": "按 agent / 用量计价",
+   "unit": "flag",
+   "call": true,
+   "main": true
+  }
+ ],
+ "SAIL": [
+  {
+   "key": "revenue",
+   "label": "总收入",
+   "unit": "USD_M"
+  },
+  {
+   "key": "revenue_yoy",
+   "label": "总收入同比",
+   "unit": "pct"
+  },
+  {
+   "key": "arr",
+   "label": "总 ARR",
+   "unit": "USD_M",
+   "main": true
+  },
+  {
+   "key": "arr_yoy",
+   "label": "ARR 同比",
+   "unit": "pct"
+  },
+  {
+   "key": "saas_arr",
+   "label": "SaaS ARR",
+   "unit": "USD_M"
+  },
+  {
+   "key": "saas_arr_yoy",
+   "label": "SaaS ARR 同比",
+   "unit": "pct"
+  },
+  {
+   "key": "ai_arr",
+   "label": "AI 驱动 ARR",
+   "unit": "USD_M",
+   "main": true
+  },
+  {
+   "key": "ai_arr_share",
+   "label": "AI 驱动 ARR 占比",
+   "unit": "pct",
+   "main": true,
+   "level": true
+  },
+  {
+   "key": "ai_net_new_share",
+   "label": "AI 占净新增 ARR",
+   "unit": "pct",
+   "level": true
+  }
+ ],
+ "ZS": [
+  {
+   "key": "revenue",
+   "label": "总收入",
+   "unit": "USD_M"
+  },
+  {
+   "key": "revenue_yoy",
+   "label": "总收入同比",
+   "unit": "pct",
+   "main": true
+  },
+  {
+   "key": "arr",
+   "label": "ARR",
+   "unit": "USD_M",
+   "main": true
+  },
+  {
+   "key": "arr_yoy",
+   "label": "ARR 同比",
+   "unit": "pct"
+  }
+ ]
+}

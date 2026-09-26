@@ -1,0 +1,129 @@
+name: 看板更新
+
+on:
+  schedule:
+    # GitHub 的 schedule 常迟到 1–2 小时，所以按"发布时间 + 缓冲"排三枪，抓取幂等。
+    # 北京 05:30（周二至周六）：接美股盘后发布的财报（AKAM/FTNT/NET/PANW/CRWD/OKTA/ZS/SAIL 都是盘后）。
+    - cron: "30 21 * * 1-5"
+    # 北京 07:30：补枪。
+    - cron: "30 23 * * 1-5"
+    # 北京 20:30（周一至周五）：接盘前发布的财报（CHKP 通常美东 7 点前后发）。
+    - cron: "30 12 * * 1-5"
+    # 北京周一 08:30：周报。
+    - cron: "30 0 * * 1"
+  # 云端分析员 routine 推送数据或反馈后：只重算、重建、推飞书，不抓数。
+  # （本工作流自己用 GITHUB_TOKEN 提交不会再次触发，不会死循环。）
+  push:
+    branches: [main]
+    paths:
+      - "data/quarterly.json"
+      - "data/feedback.json"
+      - "data/review_queue.json"
+      - "data/calendar.json"
+      - "config/**"
+  workflow_dispatch:
+    inputs:
+      notify_test:
+        description: "发一条测试推送（看板已上线 + 8 项信号）"
+        type: boolean
+        default: false
+      weekly:
+        description: "强制发周报"
+        type: boolean
+        default: false
+      skip_fetch:
+        description: "只重算和重建页面，不抓数"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dashboard-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 判定运行类型
+        id: mode
+        run: |
+          FETCH=yes
+          if [ "${{ github.event_name }}" = "push" ]; then FETCH=no; fi
+          if [ "${{ github.event.inputs.skip_fetch }}" = "true" ]; then FETCH=no; fi
+          echo "fetch=$FETCH" >> "$GITHUB_OUTPUT"
+
+      # 单个数据源挂掉不拖垮整轮：先尽力抓，后面照常评估、建页、推送。
+      - name: 行情与财报日（Nasdaq，Yahoo 兜底）
+        id: market
+        if: steps.mode.outputs.fetch == 'yes'
+        continue-on-error: true
+        run: python3 scripts/fetch_market.py
+
+      - name: 查 SEC 新财报（8-K 2.02 / CHKP 6-K）
+        id: filings
+        if: steps.mode.outputs.fetch == 'yes'
+        continue-on-error: true
+        run: python3 scripts/watch_filings.py
+
+      - name: 信号评估
+        run: python3 scripts/evaluate.py
+
+      - name: 重建页面
+        run: python3 scripts/build_site.py
+
+      - name: 推送飞书（私聊 Henry）
+        if: always()
+        env:
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_OPEN_ID: ${{ secrets.FEISHU_OPEN_ID }}
+        run: |
+          ARGS=""
+          if [ "${{ github.event.inputs.notify_test }}" = "true" ]; then ARGS="$ARGS --test"; fi
+          if [ "${{ github.event.inputs.weekly }}" = "true" ]; then ARGS="$ARGS --weekly"; fi
+          python3 scripts/notify_feishu.py $ARGS
+
+      - name: 提交并推送
+        if: always()
+        run: |
+          git config user.name  "agent-sec-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "无变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "data: $(date -u +%Y-%m-%dT%H:%MZ) ${{ github.event_name }}"
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            sleep 7
+          done
+          echo "::error::推送失败（多次 rebase 仍冲突）"
+          exit 1
+
+      - name: 汇报抓取结果
+        if: steps.mode.outputs.fetch == 'yes'
+        run: |
+          python3 - <<'PY'
+          import json, sys
+          rep = json.load(open("data/fetch_report.json", encoding="utf-8"))
+          bad = [j["label"] for j in rep.get("market", {}).get("jobs", []) if not j.get("ok")]
+          errs = rep.get("filings", {}).get("errors", [])
+          print("行情失败：", "、".join(bad) or "无")
+          print("SEC 新财报：", "、".join(rep.get("filings", {}).get("new", [])) or "无")
+          for e in errs:
+              print("SEC 错误：", e)
+          if len(bad) > 5 or len(errs) > 4:
+              print("::error::数据源大面积失败")
+              sys.exit(1)
+          PY
