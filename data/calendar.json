@@ -5,7 +5,7 @@
   "timing": "",
   "source": "Nasdaq/Zacks",
   "raw": "Earnings announcement* for AKAM: Nov 5, 2026",
-  "fetched": "2026-10-01"
+  "fetched": "2026-10-02"
  },
  "PANW": {
   "date": "2026-11-18",
@@ -13,7 +13,7 @@
   "timing": "",
   "source": "Nasdaq/Zacks",
   "raw": "Earnings announcement* for PANW: Nov 18, 2026",
-  "fetched": "2026-10-01"
+  "fetched": "2026-10-02"
  },
  "FTNT": {
   "date": "2026-11-04",
@@ -21,7 +21,7 @@
   "timing": "",
   "source": "Nasdaq/Zacks",
   "raw": "Earnings announcement* for FTNT: Nov 4, 2026",
-  "fetched": "2026-10-01"
+  "fetched": "2026-10-02"
  },
  "CHKP": {
   "date": "2026-10-27",
@@ -29,7 +29,7 @@
   "timing": "",
   "source": "Nasdaq/Zacks",
   "raw": "Earnings announcement* for CHKP: Oct 27, 2026",
-  "fetched": "2026-10-01"
+  "fetched": "2026-10-02"
  },
  "NET": {
   "date": "2026-10-29",
@@ -37,7 +37,7 @@
   "timing": "",
   "source": "Nasdaq/Zacks",
   "raw": "Earnings announcement* for NET: Oct 29, 2026",
-  "fetched": "2026-10-01"
+  "fetched": "2026-10-02"
  },
  "ZS": {
   "date": "2026-11-24",
@@ -45,6 +45,6 @@
   "timing": "",
   "source": "Nasdaq/Zacks",
   "raw": "Earnings announcement* for ZS: Nov 24, 2026",
-  "fetched": "2026-10-01"
+  "fetched": "2026-10-02"
  }
 }
