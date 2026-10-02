@@ -1,6 +1,6 @@
 {
  "market": {
-  "run_at_utc": "2026-10-02T02:25:21Z",
+  "run_at_utc": "2026-10-02T17:59:19Z",
   "jobs": [
    {
     "label": "行情 AKAM",
@@ -14,7 +14,7 @@
     "label": "行情 PANW",
     "ok": true,
     "rows": 554,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-01",
     "source": "Nasdaq"
    },
@@ -95,6 +95,6 @@
  "filings": {
   "new": [],
   "errors": [],
-  "run_at": "2026-10-02 10:26"
+  "run_at": "2026-10-03 02:00"
  }
 }
