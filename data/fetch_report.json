@@ -1,12 +1,12 @@
 {
  "market": {
-  "run_at_utc": "2026-10-03T02:11:25Z",
+  "run_at_utc": "2026-10-05T06:06:51Z",
   "jobs": [
    {
     "label": "行情 AKAM",
     "ok": true,
     "rows": 555,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-02",
     "source": "Nasdaq"
    },
@@ -14,7 +14,7 @@
     "label": "行情 PANW",
     "ok": true,
     "rows": 555,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-02",
     "source": "Nasdaq"
    },
@@ -22,7 +22,7 @@
     "label": "行情 FTNT",
     "ok": true,
     "rows": 555,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-02",
     "source": "Nasdaq"
    },
@@ -30,7 +30,7 @@
     "label": "行情 CHKP",
     "ok": true,
     "rows": 555,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-02",
     "source": "Nasdaq"
    },
@@ -38,7 +38,7 @@
     "label": "行情 NET",
     "ok": true,
     "rows": 555,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-02",
     "source": "Nasdaq"
    },
@@ -46,7 +46,7 @@
     "label": "行情 CRWD",
     "ok": true,
     "rows": 555,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-02",
     "source": "Nasdaq"
    },
@@ -54,7 +54,7 @@
     "label": "行情 OKTA",
     "ok": true,
     "rows": 555,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-02",
     "source": "Nasdaq"
    },
@@ -62,7 +62,7 @@
     "label": "行情 SAIL",
     "ok": true,
     "rows": 411,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-02",
     "source": "Nasdaq"
    },
@@ -70,7 +70,7 @@
     "label": "行情 ZS",
     "ok": true,
     "rows": 555,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-02",
     "source": "Nasdaq"
    },
@@ -78,7 +78,7 @@
     "label": "行情 CIBR",
     "ok": true,
     "rows": 555,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-02",
     "source": "Nasdaq"
    },
@@ -86,7 +86,7 @@
     "label": "行情 QQQ",
     "ok": true,
     "rows": 555,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-02",
     "source": "Nasdaq"
    }
@@ -95,6 +95,6 @@
  "filings": {
   "new": [],
   "errors": [],
-  "run_at": "2026-10-03 10:12"
+  "run_at": "2026-10-05 14:07"
  }
 }
