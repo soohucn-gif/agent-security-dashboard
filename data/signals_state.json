@@ -1,5 +1,5 @@
 {
- "updated_bjt": "2026-10-07 10:35",
+ "updated_bjt": "2026-10-08 03:04",
  "signals": {
   "S1": {
    "status": "hold",
@@ -69,7 +69,7 @@
    "next_event": {
     "ticker": "AKAM",
     "date": "2026-11-05",
-    "days": 29,
+    "days": 28,
     "status": "预估",
     "timing": "",
     "period": "",
@@ -93,7 +93,7 @@
    "next_event": {
     "ticker": "AKAM",
     "date": "2026-11-05",
-    "days": 29,
+    "days": 28,
     "status": "预估",
     "timing": "",
     "period": "",
@@ -111,7 +111,7 @@
    "next_event": {
     "ticker": "NET",
     "date": "2026-10-29",
-    "days": 22,
+    "days": 21,
     "status": "预估",
     "timing": "",
     "period": "",
@@ -155,11 +155,11 @@
    "next_event": {
     "ticker": "OKTA",
     "date": "2026-12-01",
-    "days": 55,
+    "days": 54,
     "status": "预估",
-    "timing": "盘后",
-    "period": "FY27Q3",
-    "src": "seed"
+    "timing": "",
+    "period": "",
+    "src": "cal"
    },
    "since": "2026-09-26"
   },
@@ -180,7 +180,7 @@
    "next_event": {
     "ticker": "PANW",
     "date": "2026-11-18",
-    "days": 42,
+    "days": 41,
     "status": "预估",
     "timing": "",
     "period": "",
@@ -197,11 +197,11 @@
    "next_event": {
     "ticker": "CRWD",
     "date": "2026-12-01",
-    "days": 55,
+    "days": 54,
     "status": "预估",
-    "timing": "盘后",
-    "period": "FY27Q3",
-    "src": "seed"
+    "timing": "",
+    "period": "",
+    "src": "cal"
    },
    "since": "2026-09-26"
   },
@@ -273,7 +273,7 @@
    "next_event": {
     "ticker": "FTNT",
     "date": "2026-10-28",
-    "days": 21,
+    "days": 20,
     "status": "已确认",
     "timing": "盘后",
     "period": "",
@@ -348,7 +348,7 @@
    "next_event": {
     "ticker": "CHKP",
     "date": "2026-11-02",
-    "days": 26,
+    "days": 25,
     "status": "已确认",
     "timing": "盘前",
     "period": "",
