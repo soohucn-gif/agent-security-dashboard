@@ -1,13 +1,13 @@
 {
  "market": {
-  "run_at_utc": "2026-10-09T18:28:34Z",
+  "run_at_utc": "2026-10-10T01:08:59Z",
   "jobs": [
    {
     "label": "行情 AKAM",
     "ok": true,
-    "rows": 559,
-    "added": 0,
-    "last_date": "2026-10-08",
+    "rows": 560,
+    "added": 1,
+    "last_date": "2026-10-09",
     "source": "Nasdaq"
    },
    {
@@ -29,9 +29,9 @@
    {
     "label": "行情 CHKP",
     "ok": true,
-    "rows": 559,
-    "added": 0,
-    "last_date": "2026-10-08",
+    "rows": 560,
+    "added": 1,
+    "last_date": "2026-10-09",
     "source": "Nasdaq"
    },
    {
@@ -61,9 +61,9 @@
    {
     "label": "行情 SAIL",
     "ok": true,
-    "rows": 415,
-    "added": 0,
-    "last_date": "2026-10-08",
+    "rows": 416,
+    "added": 1,
+    "last_date": "2026-10-09",
     "source": "Nasdaq"
    },
    {
@@ -95,6 +95,6 @@
  "filings": {
   "new": [],
   "errors": [],
-  "run_at": "2026-10-10 02:29"
+  "run_at": "2026-10-10 09:10"
  }
 }
