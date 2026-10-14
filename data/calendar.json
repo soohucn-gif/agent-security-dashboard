@@ -5,7 +5,7 @@
   "timing": "盘后",
   "source": "Nasdaq/Zacks",
   "raw": "Earnings announcement* for AKAM: Nov 05, 2026",
-  "fetched": "2026-10-14"
+  "fetched": "2026-10-15"
  },
  "PANW": {
   "date": "2026-11-18",
@@ -13,7 +13,7 @@
   "timing": "",
   "source": "Nasdaq/Zacks",
   "raw": "Earnings announcement* for PANW: Nov 18, 2026",
-  "fetched": "2026-10-14"
+  "fetched": "2026-10-15"
  },
  "FTNT": {
   "date": "2026-10-28",
@@ -21,7 +21,7 @@
   "timing": "盘后",
   "source": "Nasdaq/Zacks",
   "raw": "Earnings announcement* for FTNT: Oct 28, 2026",
-  "fetched": "2026-10-14"
+  "fetched": "2026-10-15"
  },
  "CHKP": {
   "date": "2026-11-02",
@@ -29,7 +29,7 @@
   "timing": "盘前",
   "source": "Nasdaq/Zacks",
   "raw": "Earnings announcement* for CHKP: Nov 02, 2026",
-  "fetched": "2026-10-14"
+  "fetched": "2026-10-15"
  },
  "NET": {
   "date": "2026-10-29",
@@ -37,7 +37,7 @@
   "timing": "",
   "source": "Nasdaq/Zacks",
   "raw": "Earnings announcement* for NET: Oct 29, 2026",
-  "fetched": "2026-10-14"
+  "fetched": "2026-10-15"
  },
  "ZS": {
   "date": "2026-11-24",
@@ -45,7 +45,7 @@
   "timing": "",
   "source": "Nasdaq/Zacks",
   "raw": "Earnings announcement* for ZS: Nov 24, 2026",
-  "fetched": "2026-10-14"
+  "fetched": "2026-10-15"
  },
  "CRWD": {
   "date": "2026-12-01",
@@ -53,7 +53,7 @@
   "timing": "",
   "source": "Nasdaq/Zacks",
   "raw": "Earnings announcement* for CRWD: Dec 1, 2026",
-  "fetched": "2026-10-14"
+  "fetched": "2026-10-15"
  },
  "OKTA": {
   "date": "2026-12-01",
@@ -61,6 +61,14 @@
   "timing": "",
   "source": "Nasdaq/Zacks",
   "raw": "Earnings announcement* for OKTA: Dec 1, 2026",
-  "fetched": "2026-10-14"
+  "fetched": "2026-10-15"
+ },
+ "SAIL": {
+  "date": "2026-12-08",
+  "status": "预估",
+  "timing": "",
+  "source": "Nasdaq/Zacks",
+  "raw": "Earnings announcement* for SAIL: Dec 8, 2026",
+  "fetched": "2026-10-15"
  }
 }
