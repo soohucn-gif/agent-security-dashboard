@@ -1,6 +1,6 @@
 {
  "market": {
-  "run_at_utc": "2026-10-20T00:33:15Z",
+  "run_at_utc": "2026-10-20T01:58:47Z",
   "jobs": [
    {
     "label": "行情 AKAM",
@@ -69,25 +69,25 @@
    {
     "label": "行情 ZS",
     "ok": true,
-    "rows": 565,
-    "added": 0,
-    "last_date": "2026-10-16",
+    "rows": 566,
+    "added": 1,
+    "last_date": "2026-10-19",
     "source": "Nasdaq"
    },
    {
     "label": "行情 CIBR",
     "ok": true,
-    "rows": 565,
-    "added": 0,
-    "last_date": "2026-10-16",
+    "rows": 566,
+    "added": 1,
+    "last_date": "2026-10-19",
     "source": "Nasdaq"
    },
    {
     "label": "行情 QQQ",
     "ok": true,
-    "rows": 565,
-    "added": 0,
-    "last_date": "2026-10-16",
+    "rows": 566,
+    "added": 1,
+    "last_date": "2026-10-19",
     "source": "Nasdaq"
    }
   ]
@@ -95,6 +95,6 @@
  "filings": {
   "new": [],
   "errors": [],
-  "run_at": "2026-10-20 08:34"
+  "run_at": "2026-10-20 10:00"
  }
 }
