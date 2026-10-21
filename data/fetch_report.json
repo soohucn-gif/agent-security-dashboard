@@ -1,93 +1,93 @@
 {
  "market": {
-  "run_at_utc": "2026-10-21T01:49:25Z",
+  "run_at_utc": "2026-10-21T17:35:12Z",
   "jobs": [
    {
     "label": "行情 AKAM",
     "ok": true,
-    "rows": 566,
-    "added": 0,
-    "last_date": "2026-10-19",
+    "rows": 567,
+    "added": 1,
+    "last_date": "2026-10-20",
     "source": "Nasdaq"
    },
    {
     "label": "行情 PANW",
     "ok": true,
-    "rows": 566,
-    "added": 0,
-    "last_date": "2026-10-19",
+    "rows": 567,
+    "added": 1,
+    "last_date": "2026-10-20",
     "source": "Nasdaq"
    },
    {
     "label": "行情 FTNT",
     "ok": true,
-    "rows": 566,
-    "added": 0,
-    "last_date": "2026-10-19",
+    "rows": 567,
+    "added": 1,
+    "last_date": "2026-10-20",
     "source": "Nasdaq"
    },
    {
     "label": "行情 CHKP",
     "ok": true,
-    "rows": 566,
-    "added": 0,
-    "last_date": "2026-10-19",
+    "rows": 567,
+    "added": 1,
+    "last_date": "2026-10-20",
     "source": "Nasdaq"
    },
    {
     "label": "行情 NET",
     "ok": true,
-    "rows": 566,
-    "added": 0,
-    "last_date": "2026-10-19",
+    "rows": 567,
+    "added": 1,
+    "last_date": "2026-10-20",
     "source": "Nasdaq"
    },
    {
     "label": "行情 CRWD",
     "ok": true,
-    "rows": 566,
-    "added": 0,
-    "last_date": "2026-10-19",
+    "rows": 567,
+    "added": 1,
+    "last_date": "2026-10-20",
     "source": "Nasdaq"
    },
    {
     "label": "行情 OKTA",
     "ok": true,
-    "rows": 566,
-    "added": 0,
-    "last_date": "2026-10-19",
+    "rows": 567,
+    "added": 1,
+    "last_date": "2026-10-20",
     "source": "Nasdaq"
    },
    {
     "label": "行情 SAIL",
     "ok": true,
-    "rows": 422,
-    "added": 0,
-    "last_date": "2026-10-19",
+    "rows": 423,
+    "added": 1,
+    "last_date": "2026-10-20",
     "source": "Nasdaq"
    },
    {
     "label": "行情 ZS",
     "ok": true,
-    "rows": 566,
-    "added": 0,
-    "last_date": "2026-10-19",
+    "rows": 567,
+    "added": 1,
+    "last_date": "2026-10-20",
     "source": "Nasdaq"
    },
    {
     "label": "行情 CIBR",
     "ok": true,
-    "rows": 566,
-    "added": 0,
-    "last_date": "2026-10-19",
+    "rows": 567,
+    "added": 1,
+    "last_date": "2026-10-20",
     "source": "Nasdaq"
    },
    {
     "label": "行情 QQQ",
     "ok": true,
-    "rows": 566,
-    "added": 0,
-    "last_date": "2026-10-19",
+    "rows": 567,
+    "added": 1,
+    "last_date": "2026-10-20",
     "source": "Nasdaq"
    }
   ]
@@ -95,6 +95,6 @@
  "filings": {
   "new": [],
   "errors": [],
-  "run_at": "2026-10-21 09:50"
+  "run_at": "2026-10-22 01:36"
  }
 }
