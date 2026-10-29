@@ -1,0 +1,68 @@
+{
+ "pending": [
+  {
+   "id": "FTNT-2026Q3",
+   "ticker": "FTNT",
+   "period": "2026Q3",
+   "filed": "2026-10-28",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000024/ftntq3-2026ex991.htm",
+   "raw_path": "raw/FTNT/2026Q3_2026-10-28.txt",
+   "signals": [
+    "S7"
+   ],
+   "auto_metrics": {
+    "product_rev": {
+     "value": 765.0,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "product_rev_ly": {
+     "value": 559.3,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "product_yoy": {
+     "value": 36.7781,
+     "unit": "pct",
+     "qualifier": null
+    },
+    "service_rev": {
+     "value": 1313.4,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "service_yoy": {
+     "value": 12.6802,
+     "unit": "pct",
+     "qualifier": null
+    },
+    "revenue": {
+     "value": 2078.4,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "revenue_yoy": {
+     "value": 20.4939,
+     "unit": "pct",
+     "qualifier": null
+    },
+    "billings": {
+     "value": 2340.0,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "billings_yoy": {
+     "value": 29.0,
+     "unit": "pct",
+     "qualifier": null
+    }
+   },
+   "keyword_hits": [],
+   "todo": [
+    "S7 FTNT 产品增速：产品收入与账单增速；电话会里 AI 数据中心 / 生成式 AI 云订单的说法"
+   ],
+   "created": "2026-10-29 09:10"
+  }
+ ],
+ "done": []
+}

@@ -2384,6 +2384,88 @@
    "accession": "0001262039-24-000006",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203924000006/ftntq4-2023ex991.htm",
    "form": "8-K"
+  },
+  "2026Q3": {
+   "metrics": {
+    "product_rev": {
+     "value": 765.0,
+     "unit": "USD_M",
+     "quote": "Product | 765.0 | 559.3（百万美元：本季/去年同季）",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000024/ftntq3-2026ex991.htm",
+     "updated": "2026-10-29"
+    },
+    "product_rev_ly": {
+     "value": 559.3,
+     "unit": "USD_M",
+     "quote": "Product | 765.0 | 559.3（百万美元：本季/去年同季）",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000024/ftntq3-2026ex991.htm",
+     "updated": "2026-10-29"
+    },
+    "product_yoy": {
+     "value": 36.7781,
+     "unit": "pct",
+     "quote": "Product | 765.0 | 559.3（百万美元：本季/去年同季）",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000024/ftntq3-2026ex991.htm",
+     "updated": "2026-10-29"
+    },
+    "service_rev": {
+     "value": 1313.4,
+     "unit": "USD_M",
+     "quote": "Service 行",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000024/ftntq3-2026ex991.htm",
+     "updated": "2026-10-29"
+    },
+    "service_yoy": {
+     "value": 12.6802,
+     "unit": "pct",
+     "quote": "Service 行现算",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000024/ftntq3-2026ex991.htm",
+     "updated": "2026-10-29"
+    },
+    "revenue": {
+     "value": 2078.4,
+     "unit": "USD_M",
+     "quote": "Total revenue 行",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000024/ftntq3-2026ex991.htm",
+     "updated": "2026-10-29"
+    },
+    "revenue_yoy": {
+     "value": 20.4939,
+     "unit": "pct",
+     "quote": "Total revenue 行现算",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000024/ftntq3-2026ex991.htm",
+     "updated": "2026-10-29"
+    },
+    "billings": {
+     "value": 2340.0,
+     "unit": "USD_M",
+     "quote": "•Billings grew 29% year over year to $2.34 billion1",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000024/ftntq3-2026ex991.htm",
+     "updated": "2026-10-29"
+    },
+    "billings_yoy": {
+     "value": 29.0,
+     "unit": "pct",
+     "quote": "•Billings grew 29% year over year to $2.34 billion1",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000024/ftntq3-2026ex991.htm",
+     "updated": "2026-10-29"
+    }
+   },
+   "notes": [],
+   "period_end": "2026-09-30",
+   "filed": "2026-10-28",
+   "accession": "0001262039-26-000024",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000024/ftntq3-2026ex991.htm",
+   "form": "8-K"
   }
  },
  "CHKP": {
@@ -5499,7 +5581,7 @@
   }
  },
  "_meta": {
-  "updated_bjt": "2026-10-29 02:28",
+  "updated_bjt": "2026-10-29 09:11",
   "note": "method：auto=新闻稿正则，routine=云端分析员，manual=人工核对；call=true 为电话会口径（第三方转录）"
  }
 }

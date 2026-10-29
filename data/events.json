@@ -18,5 +18,22 @@
   "created": "2026-09-26 17:14",
   "sent": true,
   "sent_note": "建看板时的基线记录，不推送"
+ },
+ {
+  "id": "earnings-FTNT-2026Q3",
+  "type": "earnings",
+  "ticker": "FTNT",
+  "period": "2026Q3",
+  "title": "FTNT 2026Q3 财报入库",
+  "lines": [
+   "产品收入 $7.65 亿；产品同比 +36.8%；账单同比 +29%"
+  ],
+  "signals": [
+   "S7"
+  ],
+  "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000024/ftntq3-2026ex991.htm",
+  "created": "2026-10-29 09:10",
+  "sent": true,
+  "sent_at": "2026-10-29 09:11"
  }
 ]
