@@ -1,12 +1,12 @@
 {
  "market": {
-  "run_at_utc": "2026-10-29T01:09:55Z",
+  "run_at_utc": "2026-10-29T02:37:17Z",
   "jobs": [
    {
     "label": "行情 AKAM",
     "ok": true,
     "rows": 573,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-28",
     "source": "Nasdaq"
    },
@@ -14,7 +14,7 @@
     "label": "行情 PANW",
     "ok": true,
     "rows": 573,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-28",
     "source": "Nasdaq"
    },
@@ -22,7 +22,7 @@
     "label": "行情 FTNT",
     "ok": true,
     "rows": 573,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-28",
     "source": "Nasdaq"
    },
@@ -30,7 +30,7 @@
     "label": "行情 CHKP",
     "ok": true,
     "rows": 573,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-28",
     "source": "Nasdaq"
    },
@@ -38,7 +38,7 @@
     "label": "行情 NET",
     "ok": true,
     "rows": 573,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-28",
     "source": "Nasdaq"
    },
@@ -46,7 +46,7 @@
     "label": "行情 CRWD",
     "ok": true,
     "rows": 573,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-28",
     "source": "Nasdaq"
    },
@@ -54,7 +54,7 @@
     "label": "行情 OKTA",
     "ok": true,
     "rows": 573,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-28",
     "source": "Nasdaq"
    },
@@ -62,7 +62,7 @@
     "label": "行情 SAIL",
     "ok": true,
     "rows": 429,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-28",
     "source": "Nasdaq"
    },
@@ -70,7 +70,7 @@
     "label": "行情 ZS",
     "ok": true,
     "rows": 573,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-28",
     "source": "Nasdaq"
    },
@@ -78,7 +78,7 @@
     "label": "行情 CIBR",
     "ok": true,
     "rows": 573,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-28",
     "source": "Nasdaq"
    },
@@ -86,17 +86,15 @@
     "label": "行情 QQQ",
     "ok": true,
     "rows": 573,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-10-28",
     "source": "Nasdaq"
    }
   ]
  },
  "filings": {
-  "new": [
-   "FTNT 2026Q3（2026-10-28）"
-  ],
+  "new": [],
   "errors": [],
-  "run_at": "2026-10-29 09:11"
+  "run_at": "2026-10-29 10:38"
  }
 }
