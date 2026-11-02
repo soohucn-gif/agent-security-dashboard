@@ -3194,6 +3194,72 @@
    "accession": "0001178913-24-000373",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1015922/000117891324000373/zk2430888.htm",
    "form": "6-K"
+  },
+  "2026Q3": {
+   "metrics": {
+    "product_rev": {
+     "value": 105.5,
+     "unit": "USD_M",
+     "quote": "Products and licenses 105.5 vs 130.4（百万美元：本季/去年同季）",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1015922/000117891326004953/zk2636310.htm",
+     "updated": "2026-11-03"
+    },
+    "product_rev_ly": {
+     "value": 130.4,
+     "unit": "USD_M",
+     "quote": "Products and licenses 105.5 vs 130.4（百万美元：本季/去年同季）",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1015922/000117891326004953/zk2636310.htm",
+     "updated": "2026-11-03"
+    },
+    "product_yoy": {
+     "value": -19.0951,
+     "unit": "pct",
+     "quote": "Products and licenses 105.5 vs 130.4（百万美元：本季/去年同季）",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1015922/000117891326004953/zk2636310.htm",
+     "updated": "2026-11-03"
+    },
+    "subscription_rev": {
+     "value": 338.6,
+     "unit": "USD_M",
+     "quote": "Security subscriptions 行",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1015922/000117891326004953/zk2636310.htm",
+     "updated": "2026-11-03"
+    },
+    "subscription_yoy": {
+     "value": 10.871,
+     "unit": "pct",
+     "quote": "Security subscriptions 行现算",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1015922/000117891326004953/zk2636310.htm",
+     "updated": "2026-11-03"
+    },
+    "revenue": {
+     "value": 669.8,
+     "unit": "USD_M",
+     "quote": "Total revenues 行",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1015922/000117891326004953/zk2636310.htm",
+     "updated": "2026-11-03"
+    },
+    "revenue_yoy": {
+     "value": -1.1365,
+     "unit": "pct",
+     "quote": "Total revenues 行现算",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1015922/000117891326004953/zk2636310.htm",
+     "updated": "2026-11-03"
+    }
+   },
+   "notes": [],
+   "period_end": "2026-09-30",
+   "filed": "2026-11-02",
+   "accession": "0001178913-26-004953",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1015922/000117891326004953/zk2636310.htm",
+   "form": "6-K"
   }
  },
  "NET": {
@@ -5581,7 +5647,7 @@
   }
  },
  "_meta": {
-  "updated_bjt": "2026-11-02 14:42",
+  "updated_bjt": "2026-11-03 05:54",
   "note": "method：auto=新闻稿正则，routine=云端分析员，manual=人工核对；call=true 为电话会口径（第三方转录）"
  }
 }

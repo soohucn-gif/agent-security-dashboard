@@ -35,5 +35,22 @@
   "created": "2026-10-29 09:10",
   "sent": true,
   "sent_at": "2026-10-29 09:11"
+ },
+ {
+  "id": "earnings-CHKP-2026Q3",
+  "type": "earnings",
+  "ticker": "CHKP",
+  "period": "2026Q3",
+  "title": "CHKP 2026Q3 财报入库",
+  "lines": [
+   "产品收入 $1.05 亿；产品同比 −19.1%；订阅同比 +10.9%"
+  ],
+  "signals": [
+   "S8"
+  ],
+  "url": "https://www.sec.gov/Archives/edgar/data/1015922/000117891326004953/zk2636310.htm",
+  "created": "2026-11-03 05:54",
+  "sent": true,
+  "sent_at": "2026-11-03 05:54"
  }
 ]

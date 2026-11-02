@@ -62,6 +62,59 @@
     "S7 FTNT 产品增速：产品收入与账单增速；电话会里 AI 数据中心 / 生成式 AI 云订单的说法"
    ],
    "created": "2026-10-29 09:10"
+  },
+  {
+   "id": "CHKP-2026Q3",
+   "ticker": "CHKP",
+   "period": "2026Q3",
+   "filed": "2026-11-02",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1015922/000117891326004953/zk2636310.htm",
+   "raw_path": "raw/CHKP/2026Q3_2026-11-02.txt",
+   "signals": [
+    "S8"
+   ],
+   "auto_metrics": {
+    "product_rev": {
+     "value": 105.5,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "product_rev_ly": {
+     "value": 130.4,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "product_yoy": {
+     "value": -19.0951,
+     "unit": "pct",
+     "qualifier": null
+    },
+    "subscription_rev": {
+     "value": 338.6,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "subscription_yoy": {
+     "value": 10.871,
+     "unit": "pct",
+     "qualifier": null
+    },
+    "revenue": {
+     "value": 669.8,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "revenue_yoy": {
+     "value": -1.1365,
+     "unit": "pct",
+     "qualifier": null
+    }
+   },
+   "keyword_hits": [],
+   "todo": [
+    "S8 CHKP 产品收入：产品与许可收入增速；管理层对 Q4 回正的最新说法"
+   ],
+   "created": "2026-11-03 05:54"
   }
  ],
  "done": []
