@@ -1,5 +1,5 @@
 {
- "updated_bjt": "2026-11-04 11:07",
+ "updated_bjt": "2026-11-05 03:59",
  "signals": {
   "S1": {
    "status": "hold",
@@ -69,7 +69,7 @@
    "next_event": {
     "ticker": "AKAM",
     "date": "2026-11-05",
-    "days": 1,
+    "days": 0,
     "status": "已确认",
     "timing": "盘后",
     "period": "",
@@ -93,7 +93,7 @@
    "next_event": {
     "ticker": "AKAM",
     "date": "2026-11-05",
-    "days": 1,
+    "days": 0,
     "status": "已确认",
     "timing": "盘后",
     "period": "",
@@ -111,7 +111,7 @@
    "next_event": {
     "ticker": "NET",
     "date": "2026-11-05",
-    "days": 1,
+    "days": 0,
     "status": "已确认",
     "timing": "盘后",
     "period": "",
@@ -155,7 +155,7 @@
    "next_event": {
     "ticker": "OKTA",
     "date": "2026-12-01",
-    "days": 27,
+    "days": 26,
     "status": "已确认",
     "timing": "盘后",
     "period": "",
@@ -180,9 +180,9 @@
    "next_event": {
     "ticker": "PANW",
     "date": "2026-11-18",
-    "days": 14,
-    "status": "预估",
-    "timing": "",
+    "days": 13,
+    "status": "已确认",
+    "timing": "盘后",
     "period": "",
     "src": "cal"
    },
@@ -197,7 +197,7 @@
    "next_event": {
     "ticker": "CRWD",
     "date": "2026-12-01",
-    "days": 27,
+    "days": 26,
     "status": "预估",
     "timing": "",
     "period": "",
@@ -275,15 +275,7 @@
     ]
    ],
    "label": "维持",
-   "next_event": {
-    "ticker": "FTNT",
-    "date": "2026-11-04",
-    "days": 0,
-    "status": "预估",
-    "timing": "盘后",
-    "period": "2026Q3",
-    "src": "seed"
-   },
+   "next_event": null,
    "since": "2026-09-26"
   },
   "S8": {
