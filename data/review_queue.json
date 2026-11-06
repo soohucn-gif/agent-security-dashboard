@@ -115,6 +115,109 @@
     "S8 CHKP 产品收入：产品与许可收入增速；管理层对 Q4 回正的最新说法"
    ],
    "created": "2026-11-03 05:54"
+  },
+  {
+   "id": "AKAM-2026Q3",
+   "ticker": "AKAM",
+   "period": "2026Q3",
+   "filed": "2026-11-05",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000097/exhibit991-q32026.htm",
+   "raw_path": "raw/AKAM/2026Q3_2026-11-05.txt",
+   "signals": [
+    "S1",
+    "S2"
+   ],
+   "auto_metrics": {
+    "security_rev": {
+     "value": 621.892,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "security_rev_ly": {
+     "value": 568.437,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "security_yoy": {
+     "value": 9.4039,
+     "unit": "pct",
+     "qualifier": null
+    },
+    "security_yoy_rep": {
+     "value": 9.0,
+     "unit": "pct",
+     "qualifier": null
+    },
+    "security_yoy_cc": {
+     "value": 10.0,
+     "unit": "pct",
+     "qualifier": null
+    },
+    "cis_rev": {
+     "value": 108.803,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "cis_yoy": {
+     "value": 34.0285,
+     "unit": "pct",
+     "qualifier": null
+    },
+    "delivery_rev": {
+     "value": 391.266,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "delivery_yoy": {
+     "value": -3.3945,
+     "unit": "pct",
+     "qualifier": null
+    },
+    "revenue": {
+     "value": 1121.961,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "revenue_yoy": {
+     "value": 6.3843,
+     "unit": "pct",
+     "qualifier": null
+    }
+   },
+   "keyword_hits": [],
+   "todo": [
+    "S1 AKAM 安全增速：核对安全收入与不变汇率增速；电话会里有没有 bot / agent / API 安全的量化口径、续约降价的说法",
+    "S2 AKAM 单列披露：新闻稿与电话会有没有单列 bot / agent 管理、API 安全或 AI 安全收入（金额或年化）"
+   ],
+   "created": "2026-11-06 09:45"
+  },
+  {
+   "id": "NET-2026Q3",
+   "ticker": "NET",
+   "period": "2026Q3",
+   "filed": "2026-11-05",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000060/q326exhibit991.htm",
+   "raw_path": "raw/NET/2026Q3_2026-11-05.txt",
+   "signals": [
+    "S3"
+   ],
+   "auto_metrics": {
+    "revenue": {
+     "value": 782.5,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "revenue_yoy": {
+     "value": 39.0,
+     "unit": "pct",
+     "qualifier": null
+    }
+   },
+   "keyword_hits": [],
+   "todo": [
+    "S3 NET 按请求收费：pay per crawl、Cloudflare.pay、agent 支付、Monetization Gateway 有没有给出成交额、收入或客户数"
+   ],
+   "created": "2026-11-06 09:45"
   }
  ],
  "done": []

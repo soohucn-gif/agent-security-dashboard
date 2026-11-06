@@ -76,6 +76,13 @@
    "status": "processed",
    "label": "2023Q4",
    "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622224000013/exhibit991-q42023.htm"
+  },
+  "0001086222-26-000097": {
+   "filed": "2026-11-05",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2026Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000097/exhibit991-q32026.htm"
   }
  },
  "PANW": {
@@ -466,6 +473,13 @@
    "status": "processed",
    "label": "2023Q4",
    "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733324000004/q423exhibit991.htm"
+  },
+  "0001477333-26-000060": {
+   "filed": "2026-11-05",
+   "form": "8-K",
+   "status": "processed",
+   "label": "2026Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000060/q326exhibit991.htm"
   }
  },
  "CRWD": {

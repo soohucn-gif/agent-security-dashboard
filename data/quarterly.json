@@ -1046,6 +1046,104 @@
    "accession": "0001086222-24-000013",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622224000013/exhibit991-q42023.htm",
    "form": "8-K"
+  },
+  "2026Q3": {
+   "metrics": {
+    "security_rev": {
+     "value": 621.892,
+     "unit": "USD_M",
+     "quote": "Security | 621,892 | 604,436 | 568,437（千美元：本季/上季/去年同季）",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000097/exhibit991-q32026.htm",
+     "updated": "2026-11-06"
+    },
+    "security_rev_ly": {
+     "value": 568.437,
+     "unit": "USD_M",
+     "quote": "Security | 621,892 | 604,436 | 568,437（千美元：本季/上季/去年同季）",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000097/exhibit991-q32026.htm",
+     "updated": "2026-11-06"
+    },
+    "security_yoy": {
+     "value": 9.4039,
+     "unit": "pct",
+     "quote": "Security | 621,892 | 604,436 | 568,437（千美元：本季/上季/去年同季）",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000097/exhibit991-q32026.htm",
+     "updated": "2026-11-06"
+    },
+    "security_yoy_rep": {
+     "value": 9.0,
+     "unit": "pct",
+     "quote": "报表同比行（公司四舍五入）",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000097/exhibit991-q32026.htm",
+     "updated": "2026-11-06"
+    },
+    "security_yoy_cc": {
+     "value": 10.0,
+     "unit": "pct",
+     "quote": "报表不变汇率同比行（公司四舍五入）",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000097/exhibit991-q32026.htm",
+     "updated": "2026-11-06"
+    },
+    "cis_rev": {
+     "value": 108.803,
+     "unit": "USD_M",
+     "quote": "报表 Cloud infrastructure services 行",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000097/exhibit991-q32026.htm",
+     "updated": "2026-11-06"
+    },
+    "cis_yoy": {
+     "value": 34.0285,
+     "unit": "pct",
+     "quote": "报表现算",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000097/exhibit991-q32026.htm",
+     "updated": "2026-11-06"
+    },
+    "delivery_rev": {
+     "value": 391.266,
+     "unit": "USD_M",
+     "quote": "报表 Delivery and other cloud applications 行",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000097/exhibit991-q32026.htm",
+     "updated": "2026-11-06"
+    },
+    "delivery_yoy": {
+     "value": -3.3945,
+     "unit": "pct",
+     "quote": "报表现算",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000097/exhibit991-q32026.htm",
+     "updated": "2026-11-06"
+    },
+    "revenue": {
+     "value": 1121.961,
+     "unit": "USD_M",
+     "quote": "利润表 Revenue 行（千美元）",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000097/exhibit991-q32026.htm",
+     "updated": "2026-11-06"
+    },
+    "revenue_yoy": {
+     "value": 6.3843,
+     "unit": "pct",
+     "quote": "利润表 Revenue 行现算",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000097/exhibit991-q32026.htm",
+     "updated": "2026-11-06"
+    }
+   },
+   "notes": [],
+   "period_end": "2026-09-30",
+   "filed": "2026-11-05",
+   "accession": "0001086222-26-000097",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000097/exhibit991-q32026.htm",
+   "form": "8-K"
   }
  },
  "PANW": {
@@ -3556,6 +3654,32 @@
    "accession": "0001477333-24-000004",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733324000004/q423exhibit991.htm",
    "form": "8-K"
+  },
+  "2026Q3": {
+   "metrics": {
+    "revenue": {
+     "value": 782.5,
+     "unit": "USD_M",
+     "quote": "•Third quarter revenue totaled $782.5 million, representing an increase of 39% year-over-year",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000060/q326exhibit991.htm",
+     "updated": "2026-11-06"
+    },
+    "revenue_yoy": {
+     "value": 39.0,
+     "unit": "pct",
+     "quote": "•Third quarter revenue totaled $782.5 million, representing an increase of 39% year-over-year",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000060/q326exhibit991.htm",
+     "updated": "2026-11-06"
+    }
+   },
+   "notes": [],
+   "period_end": "2026-09-30",
+   "filed": "2026-11-05",
+   "accession": "0001477333-26-000060",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000060/q326exhibit991.htm",
+   "form": "8-K"
   }
  },
  "CRWD": {
@@ -5647,7 +5771,7 @@
   }
  },
  "_meta": {
-  "updated_bjt": "2026-11-06 04:14",
+  "updated_bjt": "2026-11-06 09:45",
   "note": "method：auto=新闻稿正则，routine=云端分析员，manual=人工核对；call=true 为电话会口径（第三方转录）"
  }
 }

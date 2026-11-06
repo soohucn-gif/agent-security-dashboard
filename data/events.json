@@ -52,5 +52,40 @@
   "created": "2026-11-03 05:54",
   "sent": true,
   "sent_at": "2026-11-03 05:54"
+ },
+ {
+  "id": "earnings-AKAM-2026Q3",
+  "type": "earnings",
+  "ticker": "AKAM",
+  "period": "2026Q3",
+  "title": "AKAM 2026Q3 财报入库",
+  "lines": [
+   "安全收入 $6.22 亿；安全同比 +9.4%；不变汇率 +10%"
+  ],
+  "signals": [
+   "S1",
+   "S2"
+  ],
+  "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000097/exhibit991-q32026.htm",
+  "created": "2026-11-06 09:45",
+  "sent": true,
+  "sent_at": "2026-11-06 09:45"
+ },
+ {
+  "id": "earnings-NET-2026Q3",
+  "type": "earnings",
+  "ticker": "NET",
+  "period": "2026Q3",
+  "title": "NET 2026Q3 财报入库",
+  "lines": [
+   "收入 $7.83 亿；收入同比 +39%"
+  ],
+  "signals": [
+   "S3"
+  ],
+  "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000060/q326exhibit991.htm",
+  "created": "2026-11-06 09:45",
+  "sent": true,
+  "sent_at": "2026-11-06 09:45"
  }
 ]
