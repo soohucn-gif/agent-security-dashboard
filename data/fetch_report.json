@@ -1,6 +1,6 @@
 {
  "market": {
-  "run_at_utc": "2026-11-07T01:05:35Z",
+  "run_at_utc": "2026-11-07T02:59:31Z",
   "jobs": [
    {
     "label": "行情 AKAM",
@@ -53,41 +53,41 @@
    {
     "label": "行情 OKTA",
     "ok": true,
-    "rows": 579,
-    "added": 0,
-    "last_date": "2026-11-05",
+    "rows": 580,
+    "added": 1,
+    "last_date": "2026-11-06",
     "source": "Nasdaq"
    },
    {
     "label": "行情 SAIL",
     "ok": true,
-    "rows": 435,
-    "added": 0,
-    "last_date": "2026-11-05",
+    "rows": 436,
+    "added": 1,
+    "last_date": "2026-11-06",
     "source": "Nasdaq"
    },
    {
     "label": "行情 ZS",
     "ok": true,
-    "rows": 579,
-    "added": 0,
-    "last_date": "2026-11-05",
+    "rows": 580,
+    "added": 1,
+    "last_date": "2026-11-06",
     "source": "Nasdaq"
    },
    {
     "label": "行情 CIBR",
     "ok": true,
-    "rows": 579,
-    "added": 0,
-    "last_date": "2026-11-05",
+    "rows": 580,
+    "added": 1,
+    "last_date": "2026-11-06",
     "source": "Nasdaq"
    },
    {
     "label": "行情 QQQ",
     "ok": true,
-    "rows": 579,
-    "added": 0,
-    "last_date": "2026-11-05",
+    "rows": 580,
+    "added": 1,
+    "last_date": "2026-11-06",
     "source": "Nasdaq"
    }
   ]
@@ -95,6 +95,6 @@
  "filings": {
   "new": [],
   "errors": [],
-  "run_at": "2026-11-07 09:06"
+  "run_at": "2026-11-07 11:00"
  }
 }
