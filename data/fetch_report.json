@@ -1,12 +1,12 @@
 {
  "market": {
-  "run_at_utc": "2026-11-09T07:04:12Z",
+  "run_at_utc": "2026-11-09T22:38:39Z",
   "jobs": [
    {
     "label": "行情 AKAM",
     "ok": true,
     "rows": 580,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-11-06",
     "source": "Nasdaq"
    },
@@ -14,7 +14,7 @@
     "label": "行情 PANW",
     "ok": true,
     "rows": 580,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-11-06",
     "source": "Nasdaq"
    },
@@ -22,7 +22,7 @@
     "label": "行情 FTNT",
     "ok": true,
     "rows": 580,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-11-06",
     "source": "Nasdaq"
    },
@@ -30,7 +30,7 @@
     "label": "行情 CHKP",
     "ok": true,
     "rows": 580,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-11-06",
     "source": "Nasdaq"
    },
@@ -38,7 +38,7 @@
     "label": "行情 NET",
     "ok": true,
     "rows": 580,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-11-06",
     "source": "Nasdaq"
    },
@@ -46,7 +46,7 @@
     "label": "行情 CRWD",
     "ok": true,
     "rows": 580,
-    "added": 1,
+    "added": 0,
     "last_date": "2026-11-06",
     "source": "Nasdaq"
    },
@@ -95,6 +95,6 @@
  "filings": {
   "new": [],
   "errors": [],
-  "run_at": "2026-11-09 15:05"
+  "run_at": "2026-11-10 06:39"
  }
 }
