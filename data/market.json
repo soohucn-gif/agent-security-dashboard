@@ -225,7 +225,7 @@
   "stale": true
  },
  "_meta": {
-  "updated_bjt": "2026-11-11 03:57",
+  "updated_bjt": "2026-11-11 09:25",
   "note": "Nasdaq 公开日线为主，Yahoo 兜底；市销率 = 市值 ÷（最新季收入 × 4）"
  }
 }

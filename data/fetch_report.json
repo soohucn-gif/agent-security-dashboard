@@ -1,71 +1,71 @@
 {
  "market": {
-  "run_at_utc": "2026-11-10T19:56:55Z",
+  "run_at_utc": "2026-11-11T01:24:42Z",
   "jobs": [
    {
     "label": "行情 AKAM",
     "ok": false,
-    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/AKAM/historical?assetclass=stocks&fromdate=2024-09-01&todate=2026-11-10&limit=9999 (HTTP Error 403: Forbidden)",
+    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/AKAM/historical?assetclass=stocks&fromdate=2024-09-02&todate=2026-11-11&limit=9999 (HTTP Error 403: Forbidden)",
     "error": "yahoo failed for AKAM: GET failed: https://query2.finance.yahoo.com/v8/finance/chart/AKAM?range=2y&interval=1d (HTTP Error 429: Too Many Requests)"
    },
    {
     "label": "行情 PANW",
     "ok": false,
-    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/PANW/historical?assetclass=stocks&fromdate=2024-09-01&todate=2026-11-10&limit=9999 (HTTP Error 403: Forbidden)",
+    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/PANW/historical?assetclass=stocks&fromdate=2024-09-02&todate=2026-11-11&limit=9999 (HTTP Error 403: Forbidden)",
     "error": "yahoo failed for PANW: GET failed: https://query2.finance.yahoo.com/v8/finance/chart/PANW?range=2y&interval=1d (HTTP Error 429: Too Many Requests)"
    },
    {
     "label": "行情 FTNT",
     "ok": false,
-    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/FTNT/historical?assetclass=stocks&fromdate=2024-09-01&todate=2026-11-10&limit=9999 (HTTP Error 403: Forbidden)",
+    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/FTNT/historical?assetclass=stocks&fromdate=2024-09-02&todate=2026-11-11&limit=9999 (HTTP Error 403: Forbidden)",
     "error": "yahoo failed for FTNT: GET failed: https://query2.finance.yahoo.com/v8/finance/chart/FTNT?range=2y&interval=1d (HTTP Error 429: Too Many Requests)"
    },
    {
     "label": "行情 CHKP",
     "ok": false,
-    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/CHKP/historical?assetclass=stocks&fromdate=2024-09-01&todate=2026-11-10&limit=9999 (HTTP Error 403: Forbidden)",
+    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/CHKP/historical?assetclass=stocks&fromdate=2024-09-02&todate=2026-11-11&limit=9999 (HTTP Error 403: Forbidden)",
     "error": "yahoo failed for CHKP: GET failed: https://query2.finance.yahoo.com/v8/finance/chart/CHKP?range=2y&interval=1d (HTTP Error 429: Too Many Requests)"
    },
    {
     "label": "行情 NET",
     "ok": false,
-    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/NET/historical?assetclass=stocks&fromdate=2024-09-01&todate=2026-11-10&limit=9999 (HTTP Error 403: Forbidden)",
+    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/NET/historical?assetclass=stocks&fromdate=2024-09-02&todate=2026-11-11&limit=9999 (HTTP Error 403: Forbidden)",
     "error": "yahoo failed for NET: GET failed: https://query2.finance.yahoo.com/v8/finance/chart/NET?range=2y&interval=1d (HTTP Error 429: Too Many Requests)"
    },
    {
     "label": "行情 CRWD",
     "ok": false,
-    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/CRWD/historical?assetclass=stocks&fromdate=2024-09-01&todate=2026-11-10&limit=9999 (HTTP Error 403: Forbidden)",
+    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/CRWD/historical?assetclass=stocks&fromdate=2024-09-02&todate=2026-11-11&limit=9999 (HTTP Error 403: Forbidden)",
     "error": "yahoo failed for CRWD: GET failed: https://query2.finance.yahoo.com/v8/finance/chart/CRWD?range=2y&interval=1d (HTTP Error 429: Too Many Requests)"
    },
    {
     "label": "行情 OKTA",
     "ok": false,
-    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/OKTA/historical?assetclass=stocks&fromdate=2024-09-01&todate=2026-11-10&limit=9999 (HTTP Error 403: Forbidden)",
+    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/OKTA/historical?assetclass=stocks&fromdate=2024-09-02&todate=2026-11-11&limit=9999 (HTTP Error 403: Forbidden)",
     "error": "yahoo failed for OKTA: GET failed: https://query2.finance.yahoo.com/v8/finance/chart/OKTA?range=2y&interval=1d (HTTP Error 429: Too Many Requests)"
    },
    {
     "label": "行情 SAIL",
     "ok": false,
-    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/SAIL/historical?assetclass=stocks&fromdate=2024-09-01&todate=2026-11-10&limit=9999 (HTTP Error 403: Forbidden)",
+    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/SAIL/historical?assetclass=stocks&fromdate=2024-09-02&todate=2026-11-11&limit=9999 (HTTP Error 403: Forbidden)",
     "error": "yahoo failed for SAIL: GET failed: https://query2.finance.yahoo.com/v8/finance/chart/SAIL?range=2y&interval=1d (HTTP Error 429: Too Many Requests)"
    },
    {
     "label": "行情 ZS",
     "ok": false,
-    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/ZS/historical?assetclass=stocks&fromdate=2024-09-01&todate=2026-11-10&limit=9999 (HTTP Error 403: Forbidden)",
+    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/ZS/historical?assetclass=stocks&fromdate=2024-09-02&todate=2026-11-11&limit=9999 (HTTP Error 403: Forbidden)",
     "error": "yahoo failed for ZS: GET failed: https://query2.finance.yahoo.com/v8/finance/chart/ZS?range=2y&interval=1d (HTTP Error 429: Too Many Requests)"
    },
    {
     "label": "行情 CIBR",
     "ok": false,
-    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/CIBR/historical?assetclass=etf&fromdate=2024-09-01&todate=2026-11-10&limit=9999 (HTTP Error 403: Forbidden)",
+    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/CIBR/historical?assetclass=etf&fromdate=2024-09-02&todate=2026-11-11&limit=9999 (HTTP Error 403: Forbidden)",
     "error": "yahoo failed for CIBR: GET failed: https://query2.finance.yahoo.com/v8/finance/chart/CIBR?range=2y&interval=1d (HTTP Error 429: Too Many Requests)"
    },
    {
     "label": "行情 QQQ",
     "ok": false,
-    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/QQQ/historical?assetclass=etf&fromdate=2024-09-01&todate=2026-11-10&limit=9999 (HTTP Error 403: Forbidden)",
+    "nasdaq_error": "GET failed: https://api.nasdaq.com/api/quote/QQQ/historical?assetclass=etf&fromdate=2024-09-02&todate=2026-11-11&limit=9999 (HTTP Error 403: Forbidden)",
     "error": "yahoo failed for QQQ: GET failed: https://query2.finance.yahoo.com/v8/finance/chart/QQQ?range=2y&interval=1d (HTTP Error 429: Too Many Requests)"
    }
   ]
@@ -73,6 +73,6 @@
  "filings": {
   "new": [],
   "errors": [],
-  "run_at": "2026-11-11 03:57"
+  "run_at": "2026-11-11 09:25"
  }
 }
