@@ -1,0 +1,208 @@
+EX-99.1
+2
+ex991q127earningsrelease.htm
+EX-99.1
+Document
+Exhibit 99.1
+Palo Alto Networks Reports Fiscal First Quarter 2027 Financial Results
+SANTA CLARA, Calif., Nov. 18, 2026 — Palo Alto Networks® (NASDAQ: PANW), the global AI cybersecurity leader, announced today financial results for its fiscal first quarter ended October 31, 2026.
+"We had a strong start to the year with a record Q1 and delivered one of our highest NGS ARR beats ever as our customers turn to us to protect them against an unprecedented threat environment," said Nikesh Arora, chairman and chief executive officer of Palo Alto Networks. "As AI reshapes the threat landscape, we must continually evolve to protect our customers and enable them to adopt AI securely. To that end, we are pleased to announce our intent to acquire Applied Compute, which will allow us to deliver secure open weight models to our customers and accelerate the adoption of enterprise AI."
+"We delivered a very strong start to the year, in what is typically a seasonally slower Q1, fueled by acceleration across each of our segments," said Dipak Golechha, chief financial officer of Palo Alto Networks. "Given the current threat environment and demand we see ahead of us, we are materially raising our full year guidance."
+First Quarter Fiscal 2027 Financial Highlights
+•Total revenue for the fiscal first quarter 2027 grew 39% year over year to $3.44 billion.
+•Next-Generation Security ARR for the fiscal first quarter 2027 grew 66% year over year to $9.73 billion.
+•Remaining performance obligations grew 35% year over year to $21.0 billion.
+•GAAP operating income for the fiscal first quarter 2027 was $96 million, compared with GAAP operating income of $309 million for the fiscal first quarter 2026. Non-GAAP operating income for the fiscal first quarter 2027 was $1.1 billion, compared with non-GAAP operating income of $746 million for the fiscal first quarter 2026. A reconciliation between GAAP and non-GAAP information is contained in the tables below.
+•GAAP net income for the fiscal first quarter 2027 was $482 million, or $0.57 per diluted share, compared with GAAP net income of $334 million, or $0.47 per diluted share, for the fiscal first quarter 2026. Non-GAAP net income for the fiscal first quarter 2027 was $881 million, or $1.05 per diluted share, compared with non-GAAP net income of $662 million, or $0.93 per diluted share, for the fiscal first quarter 2026. A reconciliation between GAAP and non-GAAP information is contained in the tables below.
+•Net cash provided by operating activities for the fiscal first quarter 2027 was $1.9 billion, compared with net cash provided by operating activities of $1.8 billion for the fiscal first quarter 2026. Adjusted free cash flow for fiscal first quarter 2027 was $1.9 billion, compared with adjusted free cash flow of $1.7 billion for the fiscal first quarter 2026. Fiscal first quarter 2027 adjusted free cash flow margin was 56.2%. A reconciliation between GAAP and non-GAAP information is contained in the tables below.
+Today, Palo Alto Networks announced its intent to acquire Applied Compute, a leading platform for post-training and inference of open-weight AI models. More information can be found here (investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open).
+Financial Outlook
+Palo Alto Networks provides guidance based on current market conditions and expectations.
+For the fiscal second quarter 2027, we expect:
+•Next-Generation Security ARR of $10.20 billion to $10.22 billion, representing year-over-year growth of 61%.
+•Remaining performance obligations of $21.5 billion to $21.6 billion, representing year-over-year growth of 34% to 35%.
+•Total revenue in the range of $3.530 billion to $3.550 billion, representing year-over-year growth of 36% to 37%.
+•Diluted non-GAAP net income per share in the range of $1.01 to $1.03, using 837 million to 842 million shares outstanding.
+For the fiscal year 2027, we expect:
+•Next-Generation Security ARR of $11.475 billion to $11.525 billion, representing year-over-year growth of 26% to 27%.
+•Remaining performance obligations of $25.3 billion to $25.5 billion, representing year-over-year growth of 19% to 20%.
+•Total revenue in the range of $14.52 billion to $14.57 billion, representing year-over-year growth of 26% to 27%.
+•Non-GAAP operating margin of 29.5%.
+•Diluted non-GAAP net income per share in the range of $4.26 to $4.30, using 844 million to 847 million shares outstanding.
+•Adjusted free cash flow margin to be 38.0%.
+Guidance for non-GAAP financial measures excludes share-based compensation-related charges, including share-based payroll tax expense, acquisition-related costs, including change in fair value of contingent consideration liability, amortization expense of acquired intangible assets, litigation-related charges, change in fair value of convertible senior notes and capped calls, and income tax and other tax adjustments related to our long-term non-GAAP effective tax rate, along with certain non-recurring expenses and certain non-recurring cash flows. We have not reconciled non-GAAP operating margin guidance to GAAP operating margin, diluted non-GAAP net income per share guidance to GAAP net income per diluted share, or adjusted free cash flow margin guidance to GAAP net cash provided by operating activities because we do not provide guidance on GAAP operating margin, GAAP net income or net cash provided by operating activities and would not be able to present the various reconciling cash and non-cash items between GAAP and non-GAAP financial measures because certain items that impact these measures are uncertain or out of our control, or cannot be reasonably predicted, including share-based compensation expense, without unreasonable effort. The actual amounts of such reconciling items will have a significant impact on the company’s GAAP net income per diluted share, GAAP operating margin and GAAP net cash provided by operating activities.
+Earnings Call Information
+Palo Alto Networks will host a video webcast for analysts and investors to discuss the company’s fiscal first quarter 2027 results as well as the outlook for its fiscal second quarter and fiscal year 2027 today at 4:30 p.m. Eastern time/1:30 p.m. Pacific time. Open to the public, investors may access the webcast, supplemental financial information and earnings slides from the "Investors" section of the company’s website at investors.paloaltonetworks.com. A replay will be available three hours after the conclusion of the webcast and archived for one year.
+Forward-Looking Statements
+This press release contains forward-looking statements that involve risks, uncertainties and assumptions including statements regarding our financial and operating results and financial outlook for the fiscal second quarter 2027 and fiscal year 2027 and statements regarding the proposed acquisition of Applied Compute. There are a significant number of factors that could cause actual results to differ materially from forward-looking statements made or implied in this press release, including: the effect of the announcement of the proposed acquisition on the parties’ commercial relationships and workforce; the ability to satisfy the conditions to the closing of the acquisition; the ability to consummate the proposed acquisition on a timely basis or at all; significant and/or unanticipated difficulties, liabilities or expenditures relating to the proposed acquisition; risks related to diversion of management time and attention from ongoing business operations due to the proposed acquisition; our ability to effectively operate Applied Compute operations and business following the closing, integrate Applied Compute’s business and products with our products and services following the closing, and realize the anticipated benefits and synergies of the transaction in a timely manner or at all; unfavorable economic and market conditions and the uncertain geopolitical environment; our ability to effectively manage future growth and improve our systems, processes, and controls; our ability to maintain our revenue growth rate or profitability; variability and seasonality in our operating results; our ability to sell new and additional products, subscriptions, and support offerings to existing and new customers; the
+delayed recognition of revenue from subscription and support offerings; revenue volatility from consumption- or usage-based offerings and customer usage optimization behavior; potential decreases in the sales prices of our products, subscriptions, and support offerings; our reliance on channel partners; credit and liquidity risk exposure; challenges associated with sales to government entities; intense competition in our markets; risks associated with the evolving definition of the identity security market; customer trends toward vendor consolidation in cybersecurity; competition from cloud infrastructure providers offering native security capabilities; risks related to past and future acquisitions; our ability to predict, prepare for, and respond to rapidly evolving technological and market developments; the need to maintain a broad ecosystem of third-party technology integrations; risks related to the development, deployment, or use of AI, including AI agents as a new class of identity; the impact of network or data security incidents; defects, errors, or vulnerabilities in our products and subscriptions; reliance on customers to configure and use our products securely; the quality of our technical support services; our ability to meet service-level commitments; our reliance on data center facilities operated by third-party cloud service providers; intellectual property claims and our ability to protect proprietary rights; risks associated with open source software; our reliance on third-party technology licenses; dependence on manufacturing partners and limited sources of supply; our ability to attract, retain, and motivate key personnel; risks associated with international sales and operations, including export and import controls; fluctuations in foreign currency exchange rates; risks associated with operations and employees located in Israel; costs and risks related to compliance with privacy and data protection laws; potential tax liabilities; risks related to estimates, judgments, and critical accounting policies; our ability to maintain proper and effective internal control over financial reporting; risks related to corporate responsibility matters; dilution from issuance of additional common stock; risks related to our convertible senior notes, including our ability to settle conversions, repurchase, or repay such notes and the potential effect of capped call transactions.
+Additional risks and uncertainties on these and other factors that could affect our financial results and cause actual results to differ materially from those described in the forward-looking statements we make in this press release are included under the captions "Risk Factors" and "Management's Discussion and Analysis of Financial Condition and Results of Operations" in our annual reports on Form 10-K and quarterly reports on Form 10-Q, which are available on our website at investors.paloaltonetworks.com and on the SEC's website at www.sec.gov. Additional information and risks and uncertainties will also be set forth in other documents that we file with or furnish to the SEC from time to time. All forward-looking statements in this press release are based on our current beliefs and information available to management as of the date hereof and are inherently uncertain, and we do not assume any obligation to update the forward-looking statements provided to reflect events that occur or circumstances that exist after the date on which they were made, except as required by law.
+Non-GAAP Financial Measures and Other Key Metrics
+Palo Alto Networks has provided in this press release financial information that has not been prepared in accordance with generally accepted accounting principles in the United States (GAAP). The company uses these non-GAAP financial measures and other key metrics internally in analyzing its financial results and believes that the use of these non-GAAP financial measures and key metrics are helpful to investors as an additional tool to evaluate ongoing operating results and trends, and in comparing the company’s financial results with other companies in its industry, many of which present similar non-GAAP financial measures or key metrics.
+The presentation of these non-GAAP financial measures and key metrics are not meant to be considered in isolation or as a substitute for comparable GAAP financial measures and should be read only in conjunction with the company’s consolidated financial statements prepared in accordance with GAAP. A reconciliation of the company’s historical non-GAAP financial measures to their most directly comparable GAAP measures has been provided in the financial statement tables included in this press release, and investors are encouraged to review these reconciliations.
+Non-GAAP operating income. Palo Alto Networks defines non-GAAP operating income as operating income plus share-based compensation-related charges, including share-based payroll tax expense, acquisition-related costs, including change in fair value of contingent consideration liability, amortization expense of acquired intangible assets, and litigation-related charges. The company believes that non-GAAP operating income provides management and investors with greater visibility into the underlying performance of the company’s core business operating results.
+Non-GAAP net income and net income per share, diluted. Palo Alto Networks defines non-GAAP net income as net income plus share-based compensation-related charges, including share-based payroll tax expense, acquisition-related costs, including change in fair value of contingent consideration liability, amortization expense of acquired intangible assets, litigation-related charges, and change in fair value of convertible senior notes and capped calls. The company also excludes from non-GAAP income tax and other tax adjustments related to our long-term non-GAAP effective tax rate in order to provide a complete picture of the company’s recurring core business operating results. The company defines non-GAAP net income per share, diluted, as non-GAAP net income divided by the weighted-average diluted shares outstanding, which includes the potentially dilutive effect of the company’s employee equity incentive plan awards and the company’s convertible senior notes and related warrants, after giving effect to the anti-dilutive impact of the company’s note hedge agreements and capped call transactions, which reduced the potential economic dilution that otherwise would have occurred in connection with the conversion and settlement of the company’s convertible senior notes. Under GAAP, the anti-dilutive impact of the note hedge or capped calls is not reflected in diluted shares outstanding. The company considers these non-GAAP financial measures to be useful metrics for management and investors for the same reasons that it uses non-GAAP operating income.
+Adjusted free cash flow margin, adjusted free cash flow, and free cash flow. Palo Alto Networks defines adjusted free cash flow margin, a non-GAAP measure, as adjusted free cash flow divided by total revenue. The company defines adjusted free cash flow, a non-GAAP measure, as free cash flow, plus certain capital expenditures for our headquarters and certain corporate assets, plus payments of acquisition-related costs, plus litigation-related payments. The company defines free cash flow, a non-GAAP measure, as net cash provided by operating activities less purchases of property, equipment, and other assets. We consider free cash flow, adjusted free cash flow, and adjusted free cash flow margin to be operating metrics as well as liquidity measures that provide useful information to management and investors about the amount of cash generated by the business after necessary capital expenditures and before the impact of certain qualifying non-recurring cash payments from operating activities, as applicable. A limitation of the utility of free cash flow or adjusted free cash flow as a measure of our liquidity is that it does not represent the total increase or decrease in our cash balance for the period. In addition, it is important to note that other companies, including companies in our industry, may not use free cash flow or adjusted free cash flow, may calculate free cash flow or adjusted free cash flow in a different manner than we do, or may use other financial measures to evaluate their liquidity, all of which could reduce the usefulness of free cash flow or adjusted free cash flow as a comparative measure.
+Next-Generation Security ARR. Palo Alto Networks defines Next-Generation Security ARR as the annualized allocated revenue of all active contracts as of the final day of the reporting period related to all product, subscription and support offerings, excluding revenue from hardware products, and legacy attached subscriptions, support offerings and professional services. The company considers Next-Generation Security ARR to be a useful operating metric for management and investors to assess the performance of the company because Next-Generation Security is where the company has focused its innovation and the company expects its overall revenue to be disproportionately driven by this Next-Generation Security portfolio. Because Next-Generation Security ARR does not have the effect of providing a numerical measure that is different from any comparable GAAP measure, the company does not consider it a non-GAAP measure.
+Investors are cautioned that there are a number of limitations associated with the use of non-GAAP financial measures and key metrics as analytical tools. Many of the adjustments to the company’s GAAP financial measures reflect the exclusion of items that are recurring and will be reflected in the company’s financial results for the foreseeable future, such as share-based compensation, which is an important part of Palo Alto Networks employees’ compensation and impacts their performance. Furthermore, these non-GAAP financial measures are not based on any standardized methodology prescribed by GAAP, and the components that Palo Alto Networks excludes in its calculation of non-GAAP financial measures may differ from the components that its peer companies exclude when they report their non-GAAP results of operations. As a result, these non-GAAP financial measures may not be directly comparable to similar non-GAAP financial measures used by other companies. Palo Alto Networks compensates for these limitations by providing specific information regarding the GAAP amounts excluded from these non-GAAP financial measures. In the future, the company may also exclude non-recurring expenses and other expenses that do not reflect the company’s core business operating results.
+About Palo Alto Networks
+Palo Alto Networks® (NASDAQ: PANW), the global AI cybersecurity leader, protects our digital way of life with a comprehensive portfolio of cybersecurity solutions and platforms across Network, Cloud, Security Operations, AI and Identity. Trusted by 75,000+ customers and powered by Unit 42® threat intelligence, our AI-driven platforms eliminate complexity, empowering enterprises to modernize with confidence and securing the speed of innovation. Explore the future of security at www.paloaltonetworks.com.
+Palo Alto Networks and the Palo Alto Networks logo are trademarks of Palo Alto Networks, Inc. in the United States or in certain jurisdictions throughout the world. All other trademarks, trade names, or service marks used or mentioned herein belong to their respective owners. Any unreleased services or features (and any services or features not generally available to customers) referenced in this or other press releases or public statements are not currently available (or are not yet generally available to customers) and may not be delivered when expected or at all. Customers who purchase Palo Alto Networks applications should make their purchase decisions based on services and features currently generally available.
+Media Contact:
+Allie Cefalo Morales
+VP, Global Communications, Palo Alto Networks
+press@paloaltonetworks.com
+Investor Relations Contact:
+Ryan Fenwick
+Director, Investor Relations & Strategic Finance, Palo Alto Networks
+ir@paloaltonetworks.com
+1
+Palo Alto Networks, Inc.
+Preliminary Condensed Consolidated Statements of Operations
+(In millions, except per share data)
+(Unaudited)
+Three Months Ended
+October 31,
+2026 | 2025
+Revenue:
+Product | $595 | $434
+Subscription and support | 2,850 | 2,040
+Total revenue | 3,445 | 2,474
+Cost of revenue:
+Product | 206 | 89
+Subscription and support | 897 | 549
+Total cost of revenue | 1,103 | 638
+Total gross profit | 2,342 | 1,836
+Operating expenses:
+Research and development | 798 | 528
+Sales and marketing | 1,167 | 820
+General and administrative | 281 | 179
+Total operating expenses | 2,246 | 1,527
+Operating income | 96 | 309
+Other income (expense), net | (71) | 103
+Income before income taxes | 25 | 412
+Provision for (benefit from) income taxes | (457) | 78
+Net income | $482 | $334
+Net income per share, basic | $0.59 | $0.49
+Net income per share, diluted | $0.57 | $0.47
+Weighted-average shares used to compute net income per share, basic | 819 | 679
+Weighted-average shares used to compute net income per share, diluted | 838 | 709
+2
+Palo Alto Networks, Inc.
+Reconciliation of GAAP to Non-GAAP Financial Measures
+(In millions, except per share amounts)
+(Unaudited)
+Three Months Ended
+October 31,
+2026 | 2025
+GAAP operating income | $96 | $309
+Share-based compensation-related charges | 622 | 387
+Acquisition-related costs(1)
+55 | 5
+Amortization expense of acquired intangible assets | 282 | 39
+Litigation-related charges(2)
+4 | 6
+Non-GAAP operating income
+$1,059 | $746
+GAAP net income | $482 | $334
+Share-based compensation-related charges | 622 | 387
+Acquisition-related costs(1)
+55 | 5
+Amortization expense of acquired intangible assets | 282 | 39
+Litigation-related charges(2)
+4 | 6
+Change in fair value of convertible senior notes and capped calls(3)
+141 | —
+Income tax and other tax adjustments(4)
+(705) | (109)
+Non-GAAP net income | $881 | $662
+GAAP net income per share, diluted | $0.57 | $0.47
+Share-based compensation-related charges | 0.74 | 0.53
+Acquisition-related costs(1)
+0.07 | 0.01
+Amortization expense of acquired intangible assets | 0.34 | 0.06
+Litigation-related charges(2)
+0.00 | 0.01
+Change in fair value of convertible senior notes and capped calls(3)
+0.17 | 0.00
+Income tax and other tax adjustments(4)
+(0.84) | (0.15)
+Non-GAAP net income per share, diluted | $1.05 | $0.93
+GAAP weighted-average shares used to compute net income per share, diluted | 838 | 709
+Weighted-average anti-dilutive impact of note hedge agreements and capped call transactions | (1) | —
+Non-GAAP weighted-average shares used to compute net income per share, diluted | 837 | 709
+(1) Consists of acquisition transaction costs, share-based compensation related to the cash settlement of certain equity awards, change in fair value of contingent consideration liability, and costs to terminate certain employment, operating lease, and other contracts of the acquired companies.
+(2) Consists of the amortization of intellectual property licenses and covenant not to sue, and legal contingency charges.
+(3) Consists of changes in fair value of convertible senior notes acquired from CyberArk Software Ltd. that are included in earnings and changes in fair value of the related capped calls.
+(4) Consists of income tax adjustments related to our long-term non-GAAP effective tax rate. During the three months ended October 31, 2026, it included a one-time tax adjustment relating to a change in our tax position on a historical transaction during the transition period of the Tax Cuts and Jobs Act.
+3
+Palo Alto Networks, Inc.
+Reconciliation of GAAP to Non-GAAP Financial Measures (Continued)
+(In millions)
+(Unaudited)
+Three Months Ended
+October 31,
+2026 | 2025
+Net cash provided by operating activities | $1,929 | $1,771
+Less: purchases of property, equipment, and other assets | 87 | 84
+Free cash flow (non-GAAP) | $1,842 | $1,687
+Add: capital expenditures for certain corporate assets(1)
+— | 15
+Add: payments of acquisition-related costs(2)
+95 | 11
+Adjusted free cash flow (non-GAAP) | $1,937 | $1,713
+Net cash used in investing activities | $(1,900) | $(983)
+Net cash provided by financing activities | $50 | $8
+Adjusted free cash flow margin (non-GAAP) | 56.2% | 69.2%
+(1) Consists of a one-time purchase of a corporate asset which was paid through July 2026.
+(2) Consists of payments of acquisition-related costs in connection with our acquisition of CyberArk Software Ltd.
+4
+Palo Alto Networks, Inc.
+Preliminary Condensed Consolidated Balance Sheets
+(In millions)
+October 31, 2026 | July 31, 2026
+(unaudited)
+Assets
+Current assets:
+Cash and cash equivalents | $2,594 | $2,514
+Short-term investments | 461 | 557
+Accounts receivable, net | 2,045 | 3,629
+Short-term financing receivables, net | 606 | 592
+Short-term deferred contract costs | 544 | 544
+Prepaid expenses and other current assets | 1,200 | 807
+Total current assets | 7,450 | 8,643
+Property and equipment, net | 602 | 523
+Operating lease right-of-use assets | 688 | 700
+Long-term investments | 6,080 | 4,835
+Long-term financing receivables, net | 791 | 944
+Long-term deferred contract costs | 617 | 667
+Goodwill | 22,559 | 22,010
+Intangible assets, net | 6,869 | 7,017
+Deferred tax assets
+2,728 | 2,443
+Other assets | 726 | 678
+Total assets | $49,110 | $48,460
+Liabilities and stockholders’ equity
+Current liabilities:
+Accounts payable | $306 | $290
+Accrued compensation | 590 | 1,048
+Accrued and other liabilities | 800 | 838
+Deferred revenue | 7,730 | 7,747
+Short-term convertible senior notes | 1,930 | —
+Total current liabilities | 11,356 | 9,923
+Long-term convertible senior notes | — | 1,774
+Long-term deferred revenue | 6,859 | 7,009
+Deferred tax liabilities
+219 | 251
+Long-term operating lease liabilities | 711 | 726
+Other long-term liabilities | 1,300 | 1,285
+Total liabilities | 20,445 | 20,968
+Stockholders’ equity:
+Preferred stock | — | —
+Common stock and additional paid-in capital | 25,505 | 24,772
+Accumulated other comprehensive loss | (113) | (71)
+Retained earnings
+3,273 | 2,791
+Total stockholders’ equity | 28,665 | 27,492
+Total liabilities and stockholders’ equity | $49,110 | $48,460
+5

@@ -218,6 +218,49 @@
     "S3 NET 按请求收费：pay per crawl、Cloudflare.pay、agent 支付、Monetization Gateway 有没有给出成交额、收入或客户数"
    ],
    "created": "2026-11-06 09:45"
+  },
+  {
+   "id": "PANW-FY27Q1",
+   "ticker": "PANW",
+   "period": "FY27Q1",
+   "filed": "2026-11-18",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/ex991q127earningsrelease.htm",
+   "raw_path": "raw/PANW/FY27Q1_2026-11-18.txt",
+   "signals": [
+    "S5"
+   ],
+   "auto_metrics": {
+    "revenue": {
+     "value": 3445.0,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "revenue_yoy": {
+     "value": 39.2482,
+     "unit": "pct",
+     "qualifier": null
+    },
+    "ngs_arr": {
+     "value": 9730.0,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "ngs_arr_yoy": {
+     "value": 66.0,
+     "unit": "pct",
+     "qualifier": null
+    },
+    "rpo": {
+     "value": 21000.0,
+     "unit": "USD_M",
+     "qualifier": null
+    }
+   },
+   "keyword_hits": [],
+   "todo": [
+    "S5 Prisma AIRS ARR：电话会与新闻稿里 Prisma AIRS 的 ARR、客户数；XSIAM ARR 顺带记录"
+   ],
+   "created": "2026-11-19 10:45"
   }
  ],
  "done": []

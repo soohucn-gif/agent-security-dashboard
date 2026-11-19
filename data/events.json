@@ -87,5 +87,22 @@
   "created": "2026-11-06 09:45",
   "sent": true,
   "sent_at": "2026-11-06 09:45"
+ },
+ {
+  "id": "earnings-PANW-FY27Q1",
+  "type": "earnings",
+  "ticker": "PANW",
+  "period": "FY27Q1",
+  "title": "PANW FY27Q1 财报入库",
+  "lines": [
+   "收入同比 +39.2%；NGS ARR $97.3 亿"
+  ],
+  "signals": [
+   "S5"
+  ],
+  "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/ex991q127earningsrelease.htm",
+  "created": "2026-11-19 10:45",
+  "sent": true,
+  "sent_at": "2026-11-19 10:45"
  }
 ]
