@@ -1,5 +1,5 @@
 {
- "updated_bjt": "2026-11-20 12:09",
+ "updated_bjt": "2026-11-21 04:40",
  "signals": {
   "S1": {
    "status": "hold",
@@ -136,7 +136,7 @@
    "next_event": {
     "ticker": "OKTA",
     "date": "2026-12-01",
-    "days": 11,
+    "days": 10,
     "status": "已确认",
     "timing": "盘后",
     "period": "",
@@ -170,7 +170,7 @@
    "next_event": {
     "ticker": "CRWD",
     "date": "2026-12-01",
-    "days": 11,
+    "days": 10,
     "status": "已确认",
     "timing": "盘后",
     "period": "",
