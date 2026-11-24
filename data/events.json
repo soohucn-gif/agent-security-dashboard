@@ -104,5 +104,37 @@
   "created": "2026-11-19 10:45",
   "sent": true,
   "sent_at": "2026-11-19 10:45"
+ },
+ {
+  "id": "earnings-CRWD-FY27Q3",
+  "type": "earnings",
+  "ticker": "CRWD",
+  "period": "FY27Q3",
+  "title": "CRWD FY27Q3 财报入库",
+  "lines": [
+   "期末 ARR $62.6 亿；ARR 同比 +27%"
+  ],
+  "signals": [
+   "S6"
+  ],
+  "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123xex991.htm",
+  "created": "2026-11-24 08:16",
+  "sent": true,
+  "sent_at": "2026-11-24 08:16"
+ },
+ {
+  "id": "earnings-ZS-FY27Q1",
+  "type": "earnings",
+  "ticker": "ZS",
+  "period": "FY27Q1",
+  "title": "ZS FY27Q1 财报入库",
+  "lines": [
+   "⚠ 自动解析没取到指标（版式可能变了），已交给分析员"
+  ],
+  "signals": [],
+  "url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/d255961dex991.htm",
+  "created": "2026-11-24 08:16",
+  "sent": true,
+  "sent_at": "2026-11-24 08:16"
  }
 ]

@@ -1,5 +1,5 @@
 {
- "updated_bjt": "2026-11-23 16:04",
+ "updated_bjt": "2026-11-24 08:16",
  "signals": {
   "S1": {
    "status": "hold",
@@ -136,7 +136,7 @@
    "next_event": {
     "ticker": "OKTA",
     "date": "2026-12-01",
-    "days": 8,
+    "days": 7,
     "status": "已确认",
     "timing": "盘后",
     "period": "",
@@ -163,14 +163,14 @@
   },
   "S6": {
    "status": "hold",
-   "period": "FY27Q2",
-   "reading": "未披露绝对值（最新一期 FY27Q2）",
+   "period": "FY27Q3",
+   "reading": "未披露绝对值（最新一期 FY27Q3）",
    "reason": "只给相对增速",
    "label": "维持",
    "next_event": {
     "ticker": "CRWD",
     "date": "2026-12-01",
-    "days": 8,
+    "days": 7,
     "status": "已确认",
     "timing": "盘后",
     "period": "",

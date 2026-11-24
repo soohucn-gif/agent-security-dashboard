@@ -4348,6 +4348,56 @@
    "accession": "0001535527-24-000004",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552724000004/crwd-20240305xex991.htm",
    "form": "8-K"
+  },
+  "FY27Q3": {
+   "metrics": {
+    "revenue": {
+     "value": 1580.0,
+     "unit": "USD_M",
+     "quote": "•Revenue: Total revenue was $1.58 billion, a 28% increase, compared to $1.23 billion in the third quarter of fiscal 2026. Subscription revenue was $1.50 billion, a 29% increase, compared to $1.17 billion in the third quarter of fiscal 2026.",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123xex991.htm",
+     "updated": "2026-11-24"
+    },
+    "revenue_yoy": {
+     "value": 28.0,
+     "unit": "pct",
+     "quote": "•Revenue: Total revenue was $1.58 billion, a 28% increase, compared to $1.23 billion in the third quarter of fiscal 2026. Subscription revenue was $1.50 billion, a 29% increase, compared to $1.17 billion in the third quarter of fiscal 2026.",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123xex991.htm",
+     "updated": "2026-11-24"
+    },
+    "arr": {
+     "value": 6260.0,
+     "unit": "USD_M",
+     "quote": "•Annual Recurring Revenue (ARR) grew 27% year-over-year to $6.26 billion as of October 31, 2026, of which $419.2 million was net new ARR added in the quarter.",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123xex991.htm",
+     "updated": "2026-11-24"
+    },
+    "arr_yoy": {
+     "value": 27.0,
+     "unit": "pct",
+     "quote": "•Annual Recurring Revenue (ARR) grew 27% year-over-year to $6.26 billion as of October 31, 2026, of which $419.2 million was net new ARR added in the quarter.",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123xex991.htm",
+     "updated": "2026-11-24"
+    },
+    "net_new_arr": {
+     "value": 419.2,
+     "unit": "USD_M",
+     "quote": "•Annual Recurring Revenue (ARR) grew 27% year-over-year to $6.26 billion as of October 31, 2026, of which $419.2 million was net new ARR added in the quarter.",
+     "method": "auto",
+     "source": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123xex991.htm",
+     "updated": "2026-11-24"
+    }
+   },
+   "notes": [],
+   "period_end": "2026-10-31",
+   "filed": "2026-11-23",
+   "accession": "0001535527-26-000035",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123xex991.htm",
+   "form": "8-K"
   }
  },
  "OKTA": {
@@ -5818,10 +5868,19 @@
    "accession": "0001713683-24-000036",
    "source_url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368324000036/zs-01312024_991.htm",
    "form": "8-K"
+  },
+  "FY27Q1": {
+   "metrics": {},
+   "notes": [],
+   "period_end": "2026-10-31",
+   "filed": "2026-11-23",
+   "accession": "0001193125-26-470942",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/d255961dex991.htm",
+   "form": "8-K"
   }
  },
  "_meta": {
-  "updated_bjt": "2026-11-23 16:04",
+  "updated_bjt": "2026-11-24 08:16",
   "note": "method：auto=新闻稿正则，routine=云端分析员，manual=人工核对；call=true 为电话会口径（第三方转录）"
  }
 }

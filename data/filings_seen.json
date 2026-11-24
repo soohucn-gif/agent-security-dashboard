@@ -566,6 +566,13 @@
    "status": "processed",
    "label": "FY24Q4",
    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552724000004/crwd-20240305xex991.htm"
+  },
+  "0001535527-26-000035": {
+   "filed": "2026-11-23",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY27Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123xex991.htm"
   }
  },
  "OKTA": {
@@ -775,6 +782,13 @@
    "status": "processed",
    "label": "FY24Q2",
    "url": "https://www.sec.gov/Archives/edgar/data/1713683/000171368324000036/zs-01312024_991.htm"
+  },
+  "0001193125-26-470942": {
+   "filed": "2026-11-23",
+   "form": "8-K",
+   "status": "processed",
+   "label": "FY27Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/d255961dex991.htm"
   }
  }
 }

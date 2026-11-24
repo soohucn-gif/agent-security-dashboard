@@ -261,6 +261,64 @@
     "S5 Prisma AIRS ARR：电话会与新闻稿里 Prisma AIRS 的 ARR、客户数；XSIAM ARR 顺带记录"
    ],
    "created": "2026-11-19 10:45"
+  },
+  {
+   "id": "CRWD-FY27Q3",
+   "ticker": "CRWD",
+   "period": "FY27Q3",
+   "filed": "2026-11-23",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/crwd-20261123xex991.htm",
+   "raw_path": "raw/CRWD/FY27Q3_2026-11-23.txt",
+   "signals": [
+    "S6"
+   ],
+   "auto_metrics": {
+    "revenue": {
+     "value": 1580.0,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "revenue_yoy": {
+     "value": 28.0,
+     "unit": "pct",
+     "qualifier": null
+    },
+    "arr": {
+     "value": 6260.0,
+     "unit": "USD_M",
+     "qualifier": null
+    },
+    "arr_yoy": {
+     "value": 27.0,
+     "unit": "pct",
+     "qualifier": null
+    },
+    "net_new_arr": {
+     "value": 419.2,
+     "unit": "USD_M",
+     "qualifier": null
+    }
+   },
+   "keyword_hits": [],
+   "todo": [
+    "S6 CRWD AI DR ARR：AI DR（AIDR）ending ARR 是否给出绝对金额；Flex ARR、身份 ARR 顺带记录"
+   ],
+   "created": "2026-11-24 08:16"
+  },
+  {
+   "id": "ZS-FY27Q1",
+   "ticker": "ZS",
+   "period": "FY27Q1",
+   "filed": "2026-11-23",
+   "source_url": "https://www.sec.gov/Archives/edgar/data/1713683/000119312526470942/d255961dex991.htm",
+   "raw_path": "raw/ZS/FY27Q1_2026-11-23.txt",
+   "signals": [],
+   "auto_metrics": {},
+   "keyword_hits": [],
+   "todo": [
+    "参照公司：记录收入 / ARR 与 AI 相关表述"
+   ],
+   "created": "2026-11-24 08:16"
   }
  ],
  "done": []
